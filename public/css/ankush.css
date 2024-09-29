@@ -1,0 +1,384 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+ /* starting sign up css */
+
+#k3-signup .k3-del-row-pad{
+    padding: 0 -15px;
+}
+
+#k3-signup .k3-tab-bg {
+    background-color: #DC3545;
+}
+
+#k3-signup .k3-tab-color{
+    color: #DC3545;
+}
+
+#k3-signup .k3-tab-border{
+    border:2px solid #DC3545;
+    font-weight: 800;
+}
+
+#k3-signup .k3-main-content-box {
+    background-color: #f4f4f4;
+    border: 1px solid #e3e3e3;
+ 
+}
+#k3-signup .k3-p-pad {
+    padding:5px 16px;
+
+
+}
+#k3-signup .k3-main-content-box ::-webkit-input-placeholder { /* WebKit browsers */
+    color:   #dc354557;
+}
+#k3-signup .k3-main-content-box :-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+   color:   #dc354557;
+   opacity:  1;
+}
+#k3-signup .k3-main-content-box :-moz-placeholder { /* Mozilla Firefox 19+ */
+   color:   #dc354557;
+   opacity:  1;
+}
+#k3-signup .k3-main-content-box :-ms-input-placeholder { /* Internet Explorer 10+ */
+   color:   #dc354557;
+}
+#k3-signup .k3-main-content-box input[type="text"]{
+border: 1px solid #dc354557;
+}
+
+
+/* ending sign up css */
+
+
+
+
+
+/* starting companyinfo css */
+
+
+#k3-companyinfo .k3-del-row-pad{
+    padding: 0 -15px;
+}
+
+#k3-companyinfo .k3-tab-bg {
+    background-color: #DC3545;
+}
+
+#k3-companyinfo .k3-tab-color{
+    color: #DC3545;
+}
+
+#k3-companyinfo .k3-tab-border{
+    border:2px solid #DC3545;
+    font-weight: 800;
+}
+
+#k3-companyinfo .k3-main-content-box {
+    background-color: #f4f4f4;
+    border: 1px solid #e3e3e3;
+ 
+}
+#k3-companyinfo .k3-p-pad {
+    padding:5px 16px;
+
+
+}
+#k3-companyinfo .k3-main-content-box ::-webkit-input-placeholder { /* WebKit browsers */
+    color:   #dc354557;
+}
+#k3-companyinfo .k3-main-content-box :-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+   color:   #dc354557;
+   opacity:  1;
+}
+#k3-companyinfo .k3-main-content-box :-moz-placeholder { /* Mozilla Firefox 19+ */
+   color:   #dc354557;
+   opacity:  1;
+}
+#k3-companyinfo .k3-main-content-box :-ms-input-placeholder { /* Internet Explorer 10+ */
+   color:   #dc354557;
+}
+#k3-companyinfo .k3-main-content-box input[type="text"]{
+border: 1px solid #dc354557;
+}
+#k3-companyinfo .k3-main-content-box input[type="tel"]{
+    border: 1px solid #dc354557;
+    }
+
+#k3-companyinfo #k3-para {
+    border: 1px solid #dc354557;
+}
+
+#k3-companyinfo #k3-country-list{
+    color: #DC3545;
+}
+#k3-companyinfo #k3-country-list   {
+    border: 1px solid #dc354557;
+}
+
+
+  
+  // workaround
+  #k3-companyinfo .intl-tel-input {
+    display: table-cell;
+  }
+  #k3-companyinfo .intl-tel-input .selected-flag {
+    z-index: 4;
+  }
+  #k3-companyinfo .intl-tel-input .country-list {
+    z-index: 5;
+  }
+  #k3-companyinfo .input-group .intl-tel-input .form-control {
+    border-top-left-radius: 4px;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 0;
+  }
+
+
+
+
+  /* ending sign up css */
+
+
+
+  /* starting users css */
+    
+  
+
+
+#k3-users .k3-tab-bg {
+    background-color: #DC3545;
+}
+
+#k3-users .k3-tab-color{
+    color: #DC3545;
+}
+
+#k3-users .k3-tab-border{
+    border:2px solid #DC3545;
+    font-weight: 800;
+}
+
+#k3-users .k3-user-bg{
+    background-color:#DC3545;
+    width:100%;
+    padding:10px 0;
+    color:white;
+}
+#k3-users .k3-main-content-box {
+    background-color: #f4f4f4;
+    border: 1px solid #e3e3e3;
+ 
+}
+
+#k3-users .k3-add-pad{
+    padding: 0 6px;
+}
+
+#k3-users .k3-min-pad{
+    padding: 0 8px;
+}
+
+  /* ending users css */
+
+
+
+  /* starting payment css */
+     
+
+  
+
+
+
+#k3-payment .k3-tab-bg {
+    background-color: #DC3545;
+}
+
+#k3-payment .k3-tab-color{
+    color: #DC3545;
+}
+
+#k3-payment .k3-tab-border{
+    border:2px solid #DC3545;
+    font-weight: 800;
+}
+
+#k3-payment .k3-user-bg{
+    background-color:#DC3545;
+    width:100%;
+    padding:10px 0;
+    color:white;
+}
+#k3-payment .k3-main-content-box {
+    background-color: #f4f4f4;
+    border: 1px solid #e3e3e3;
+ 
+}
+
+#k3-payment .k3-add-pad{
+    padding: 0 6px;
+}
+
+#k3-payment .k3-min-pad{
+    padding: 0 8px;
+}
+
+#k3-payment .k3-bg-month{
+    background-color:rgb(220, 220, 220);
+    color:#DC3545;
+}
+
+#k3-payment .k3-shadow{
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+}
+
+#k3-payment .k3-code-pad ::-webkit-input-placeholder { /* WebKit browsers */
+    padding-left: 10px;
+}
+#k3-payment .k3-code-pad :-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    padding-left: 10px;
+}
+#k3-payment .k3-code-pad :-moz-placeholder { /* Mozilla Firefox 19+ */
+    padding-left: 10px;
+}
+#k3-payment .k3-code-pad :-ms-input-placeholder { /* Internet Explorer 10+ */
+    padding-left: 10px;
+}
+
+  /* ending payment css */
+
+
+
+
+
+
+  /* starting payment detail css */
+
+    
+
+
+
+#k3-paymentdetail .k3-tab-bg {
+    background-color: #DC3545;
+}
+
+#k3-paymentdetail .k3-tab-color{
+    color: #DC3545;
+}
+
+#k3-paymentdetail .k3-tab-border{
+    border:2px solid #DC3545;
+    font-weight: 800;
+}
+
+#k3-paymentdetail .k3-user-bg{
+    background-color:#DC3545;
+    width:100%;
+    padding:10px 0;
+    color:white;
+}
+#k3-paymentdetail .k3-main-content-box {
+    background-color: #f4f4f4;
+    border: 1px solid #e3e3e3;
+ 
+}
+
+#k3-paymentdetail .k3-pd-border{
+   border-bottom:2px solid #DC3545;
+}
+
+  /* ending payment detail css */
+
+
+
+
+  /* starting manage client */
+
+    
+
+
+  #k3-manageclient .btn-color{
+    background-color:#DC3545;
+    color:white;
+    
+   
+}
+
+
+#k3-btnmiddle .btn {
+    padding: 5px 15px;
+    border-radius: 0 !important  ;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+
+#k3-manageclient .th-color{
+    color:#DC3545;
+}
+
+#k3-manageclient .client-detail{
+    cursor: pointer;
+    color:black;
+}
+#k3-manageclient .client-detail:hover{
+    text-decoration: none;
+    
+}
+
+#k3-manageclient i.fa-home, .fa-dollar-sign, .fa-male, .fa-edit, .fa-envelope, .fa-file-alt{
+    color:rgb(255, 255, 255);
+}
+
+
+#k3-manageclient .btn-text{
+    color: rgb(255, 255, 255);
+}
+
+  /* ending manage client */
+
+
+
+  /* starting add client */
+  
+   
+
+#k3-addclient .btn-color{
+    background-color:#DC3545;
+    color:white;
+}
+
+#k3-addclient input[type=search]::placeholder{
+    color:#DC3545;
+    opacity: 0.3;
+    font-weight: 600;
+    padding-left:10px;
+    line-height: 50px;
+}
+
+#k3-addclient input[type=search].ph{
+    line-height: 33px;
+}
+
+#k3-addclient .th-color{
+    color:#DC3545;
+}
+
+#k3-addclient .client-detail{
+    cursor: pointer;
+    color:black;
+}
+#k3-addclient .client-detail:hover{
+    text-decoration: none;
+    
+}
+#k3-addclient .k3-icon-color{
+    color: #DC3545;
+}
+ 
+  /* ending add client */

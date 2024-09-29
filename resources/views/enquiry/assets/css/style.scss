@@ -1,0 +1,557 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-family: 'Roboto', sans-serif;
+}
+
+.btn-success{
+	padding: 10px 20px;
+    font-size: 18px;
+}
+
+// select dropdown css starts
+*,
+*:after,
+*:before {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.file{
+	position: initial;
+}
+.file-custom:after {
+    content: "Choose file...";
+    left: 4px;
+    position: absolute;
+    font-size: 15px;
+}
+.width-adjust-80{
+	width: 80%;
+}
+
+/* DEMO */
+.wrapper-dropdown {
+  /* Size and position */
+  position: relative;
+  text-align: left;
+  font-size: 14px;
+  width: 200px;
+  margin: 0 auto;
+
+  padding: 10px 15px;
+   padding-left: 0;
+  /* Styles */
+  background: #fff;
+  border-bottom: 2px solid #c8ccd4;
+  cursor: pointer;
+  outline: none;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;  
+  
+}
+
+.wrapper-dropdown span{
+  display: block;
+  width: 85%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* Triangle Down*/
+.wrapper-dropdown:after {
+  content: "";
+  width: 0;
+  height: 0;
+  position: absolute;
+  right: 16px;
+  top: 50%;
+  margin-top: -3px;
+  border-width: 6px 6px 0 6px;
+  border-style: solid;
+  border-color: grey transparent;
+}
+
+/* Triangle Up*/
+.wrapper-dropdown.active:after {
+  border-width: 0 6px 6px 6px;
+}
+
+.wrapper-dropdown .dropdown {
+  /* Size & position */
+  position: absolute;
+  top: 102%;
+  left: 0px;
+  right: 0px;
+  width:100%;
+  outline: solid 1px #A9A9A9;
+      max-height: 300px;
+    overflow: auto;
+  
+  /* Styles */
+  list-style: none;
+
+  /* Hide dropdown */
+  opacity: 0;
+  pointer-events: none;
+}
+
+/* Show dropdown*/
+.wrapper-dropdown.active .dropdown {
+  opacity: 1;
+      z-index: 4;
+  pointer-events: auto;
+}
+
+/* Option */
+.wrapper-dropdown .dropdown li a {
+  width: 100%;
+  padding: 8px 10px 8px 10px;  
+  background-color: white;
+  overflow: hidden;  
+  display: block;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  text-decoration: none;
+  color: #333;
+}
+
+/* Option hover */
+.wrapper-dropdown .dropdown li:hover a {
+  color: white;
+  background-color: #3190FC;
+}
+
+
+#dd1,#selectgender{
+	pointer-events: none;
+}
+// select dropdown css ends
+
+
+.married-options{
+	display: none;
+}
+.show2{
+	display: flex !important;
+}
+.show{
+display: block !important;
+}
+
+.row-margin-big{
+	@media only screen and (min-width: 768px){
+		margin: 20px -15px;
+	}
+
+}
+.imm-append-btn{
+	background-color: #15ab9d;
+    padding: 5px 15px;
+    border-radius: 0;
+    color: #fff;
+    font-size: 18px;
+    margin-top: 16px;
+    border: none;
+}
+
+.imm-button1{
+	background-color: #15ab9d;
+    color: #fff;
+    &:hover{
+    	background-color: #0c7e73;
+    }
+}
+.imm-home-con{
+	height: 100vh;
+	width: 100%;
+	background: url("../images/bg.png");
+	background-size: cover;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	.logo-box img{
+		width: 100%;
+		opacity: 0.8;
+	}
+	.logo-box{
+		margin: auto;
+		width: 150px;
+	}
+
+	.imm-btn-parent .imm-buttons{
+		min-height: 200px;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+
+		.imm-button{
+			  width: 200px;
+              height: 50px;
+              background-color: #05b17ade;
+              color: #fff;
+              border-radius: 20px;
+              border: 1px solid #fff;
+              font-size: 18px;
+              margin: 18px 0px !important;
+			&:hover{
+				background-color: #4caf50;
+			}
+		}
+		&:nth-child(2) button{
+			margin: 5px 0px;
+		}
+	}
+}
+
+//Input type Styling starts
+
+.inp {
+  position: relative;
+  margin: auto;
+  width: 100%;
+}
+.inp .label {
+  position: absolute;
+  top: 16px;
+  left: 0;
+  font-size: 16px;
+  color: #9098a9;
+  font-weight: 500;
+  transform-origin: 0 0;
+  transition: all 0.2s ease;
+}
+.inp .border {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 2px;
+  width: 100%;
+  background: #07f;
+  transform: scaleX(0);
+  transform-origin: 0 0;
+  transition: all 0.15s ease;
+}
+.inp input {
+  -webkit-appearance: none;
+  width: 100%;
+  border: 0;
+  font-family: inherit;
+  padding: 12px 0;
+  height: 48px;
+  font-size: 16px;
+  font-weight: 500;
+  border-bottom: 2px solid #c8ccd4;
+  background: none;
+  border-radius: 0;
+  color: #223254;
+  transition: all 0.15s ease;
+}
+.inp input:hover {
+  background: rgba(34,50,84,0.03);
+}
+.inp input:not(:placeholder-shown) + span {
+  color: #5a667f;
+  transform: translateY(-26px) scale(0.75);
+}
+.inp input:focus {
+  background: none;
+  outline: none;
+}
+.inp input:focus + span {
+  color: #07f;
+  transform: translateY(-26px) scale(0.75);
+}
+.inp input:focus + span + .border {
+  transform: scaleX(1);
+}
+
+//Input type Styling starts
+
+.imm-con-1{
+	text-align: center;
+	margin-top: 20px;
+h6{
+	margin: 30px 0px;
+}
+.phone-parent,.imm-card{
+	width: 70%;
+	  @media only screen and (max-width: 1000px){
+		    	width: 100%;
+		    }
+    margin: auto;
+	display: flex;
+	justify-content: center;
+	align-items: baseline;
+	 padding: 40px 0px;
+	 // margin: 30px 0px;
+	box-shadow:0 4px 10px 0 rgba(0,0,0,0.2), 0 4px 20px 0 rgba(0,0,0,0.19);
+	.country-code{
+		    width: 50px;
+	}
+
+	.country-code + div{
+		    width: 40%;
+
+	}
+
+.otp-box{
+	.bgWhite{
+  background:white;
+  box-shadow:0px 3px 6px 0px #cacaca;
+}
+
+.title{
+  font-weight:600;
+  margin-top:20px;
+  font-size:24px
+}
+
+.customBtn{
+  border-radius:0px;
+  padding:10px;
+}
+
+form input{
+  display:inline-block;
+  width:50px;
+  height:50px;
+  text-align:center;
+}
+
+}
+
+.clickdisabled{
+	pointer-events: none;
+}
+}
+.form-logo{
+	width: 100px;
+	margin: auto;
+}
+.modal-dialog {
+ transform: translate(0,29%) !important;
+}
+
+.imm-btngroup{
+	display: flex;
+	justify-content: space-around;
+
+	@media only screen and (max-width: 768px){
+	justify-content: space-between;
+
+	}
+}
+}
+
+.imm-general-dtl{
+	@media only screen and (max-width: 768px){
+		.col-md-4,.col-md-6{
+			margin: 10px 0px;
+		}
+	}
+	.gender-input span{
+		top: 5px;
+	}
+
+	.inp{
+		 @media only screen and (max-width: 768px){
+ 	    width: 80%;
+ }
+	}
+	.gender-input{
+.genderinp{
+display: flex;
+justify-content: flex-end;
+@media only screen and (max-width: 768px){
+	justify-content: center;
+	    margin-top: 20px;
+}
+
+ div{
+		margin: 0px 20px;
+	}
+	}
+	}
+
+	.wrapper-dropdown{
+	  width: 100%;
+ 
+	}
+
+	.col-md-6{
+		.wrapper-dropdown{
+			@media only screen and (max-width: 768px){
+				width: 80%;
+			}
+
+		}
+	}
+}
+
+
+
+.imm-marital-status{
+	.marital-options{
+		text-align: left;
+	}
+
+	.married-options{
+	
+		.col-md-6{
+			@media only screen and (max-width: 768px){
+				margin: 15px 0px;
+			}
+		}
+
+		.spouse-income{
+			p{
+				margin: 15px 0px;
+				text-align: left;
+				color: #9d98a9;
+			}
+
+			.file-custom{
+				top: 50%;
+				@media only screen and (max-width: 768px){
+				width: 92%;
+				margin: auto;
+			}
+				@media only screen and (min-width: 768px){
+				
+				left: 6%;
+			}
+				
+			}
+		}
+	}
+
+
+}
+
+
+.imm-education-dtl{
+	.imm-card{
+		width: 100%;
+		.edu-con{
+			width: 80%;
+		}
+	}
+
+	.wrapper-dropdown{
+		width: auto;
+		@media only screen and (min-width: 1200px) {
+		margin-top: 5px;
+		}
+	}
+@media only screen and (max-width: 1200px){
+	.edu-row{
+	display: block;
+	.col-md-3,.col-md-2{
+	position: relative;
+    max-width: 100% !important;
+    min-height: 1px;
+    padding-right: 15px;
+    margin: 18px 0px;
+    padding-left: 15px;
+	}
+	}
+}
+}
+
+.imm-eng-dtl{
+
+	.wrapper-dropdown{
+		
+		width: auto;
+	
+	}
+
+	.eng-radio{
+		justify-content: space-between;
+			@media only screen and (max-width: 768px){
+		justify-content: space-around;
+
+			}
+		.col-md-2,.col-md-4{
+		@media only screen and (max-width: 768px){
+			width: auto;
+
+		}
+
+		
+		}
+		.col-md-2{
+			width: 22%;
+			padding: 0;
+		}
+	}
+	// .imm-card{
+	// 	width: 100%;
+	// }
+
+	.toefl-section,.ielts-section,.pte-section,.oet-section{
+		display: none;
+		h6{
+		   background: #15ab9d;
+           color: #fff;
+		}
+	}
+}
+
+.imm-imm-detail{
+	.visa-reject-country{
+		display: none;
+	}
+
+	.visa-adj{
+		display: flex;
+		justify-content: space-between;
+
+		@media only screen and (max-width: 1200px){
+			display: block;
+			text-align: left;
+		}
+	}
+}
+
+.imm-financial-dtl{
+	@media only screen and (max-width:1200px){
+		.col-md-6{
+			max-width: 100%;
+			margin: 20px 0px;
+		}
+	} 
+
+.other-financial-source,#other-financial-source{
+	display: none;
+}
+
+}
+
+
+small{
+	@media only screen and (max-width: 768px){
+		    margin-left: 48px;
+	}
+}
+
+#otpsubmit input{
+ border: 1px solid #15ab9d;
+}
+
+
+.imm-content{
+	display: none;
+}

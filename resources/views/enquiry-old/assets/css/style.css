@@ -1,0 +1,399 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+body {
+  font-family: 'Roboto', sans-serif; }
+
+.btn-success {
+  padding: 10px 20px;
+  font-size: 18px; }
+
+*,
+*:after,
+*:before {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0; }
+
+.file {
+  position: initial; }
+
+.file-custom:after {
+  content: "Choose file...";
+  left: 4px;
+  position: absolute;
+  font-size: 15px; }
+
+.width-adjust-80 {
+  width: 80%; }
+
+/* DEMO */
+.wrapper-dropdown {
+  /* Size and position */
+  position: relative;
+  text-align: left;
+  font-size: 14px;
+  width: 200px;
+  margin: 0 auto;
+  padding: 10px 15px;
+  padding-left: 0;
+  /* Styles */
+  background: #fff;
+  border-bottom: 2px solid #c8ccd4;
+  cursor: pointer;
+  outline: none;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none; }
+
+.wrapper-dropdown span {
+  display: block;
+  width: 85%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis; }
+
+/* Triangle Down*/
+.wrapper-dropdown:after {
+  content: "";
+  width: 0;
+  height: 0;
+  position: absolute;
+  right: 16px;
+  top: 50%;
+  margin-top: -3px;
+  border-width: 6px 6px 0 6px;
+  border-style: solid;
+  border-color: grey transparent; }
+
+/* Triangle Up*/
+.wrapper-dropdown.active:after {
+  border-width: 0 6px 6px 6px; }
+
+.wrapper-dropdown .dropdown {
+  /* Size & position */
+  position: absolute;
+  top: 102%;
+  left: 0px;
+  right: 0px;
+  width: 100%;
+  outline: solid 1px #A9A9A9;
+  max-height: 300px;
+  overflow: auto;
+  /* Styles */
+  list-style: none;
+  /* Hide dropdown */
+  opacity: 0;
+  pointer-events: none; }
+
+/* Show dropdown*/
+.wrapper-dropdown.active .dropdown {
+  opacity: 1;
+  z-index: 4;
+  pointer-events: auto; }
+
+/* Option */
+.wrapper-dropdown .dropdown li a {
+  width: 100%;
+  padding: 8px 10px 8px 10px;
+  background-color: white;
+  overflow: hidden;
+  display: block;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  text-decoration: none;
+  color: #333; }
+
+/* Option hover */
+.wrapper-dropdown .dropdown li:hover a {
+  color: white;
+  background-color: #3190FC; }
+
+#dd1, #selectgender {
+  pointer-events: none; }
+
+.married-options {
+  display: none; }
+
+.show2 {
+  display: flex !important; }
+
+.show {
+  display: block !important; }
+
+@media only screen and (min-width: 768px) {
+  .row-margin-big {
+    margin: 20px -15px; } }
+
+.imm-append-btn {
+  background-color: #15ab9d;
+  padding: 5px 15px;
+  border-radius: 0;
+  color: #fff;
+  font-size: 18px;
+  margin-top: 16px;
+  border: none; }
+
+.imm-button1 {
+  background-color: #15ab9d;
+  color: #fff; }
+  .imm-button1:hover {
+    background-color: #0c7e73; }
+
+.imm-home-con {
+  height: 100vh;
+  width: 100%;
+  background: url("../images/bg.png");
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+  .imm-home-con .logo-box img {
+    width: 100%;
+    opacity: 0.8; }
+  .imm-home-con .logo-box {
+    margin: auto;
+    width: 150px; }
+  .imm-home-con .imm-btn-parent .imm-buttons {
+    min-height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; }
+    .imm-home-con .imm-btn-parent .imm-buttons .imm-button {
+      width: 200px;
+      height: 50px;
+      background-color: #05b17ade;
+      color: #fff;
+      border-radius: 20px;
+      border: 1px solid #fff;
+      font-size: 18px;
+      margin: 18px 0px !important; }
+      .imm-home-con .imm-btn-parent .imm-buttons .imm-button:hover {
+        background-color: #4caf50; }
+    .imm-home-con .imm-btn-parent .imm-buttons:nth-child(2) button {
+      margin: 5px 0px; }
+
+.inp {
+  position: relative;
+  margin: auto;
+  width: 100%; }
+
+.inp .label {
+  position: absolute;
+  top: 16px;
+  left: 0;
+  font-size: 16px;
+  color: #9098a9;
+  font-weight: 500;
+  transform-origin: 0 0;
+  transition: all 0.2s ease; }
+
+.inp .border {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 2px;
+  width: 100%;
+  background: #07f;
+  transform: scaleX(0);
+  transform-origin: 0 0;
+  transition: all 0.15s ease; }
+
+.inp input {
+  -webkit-appearance: none;
+  width: 100%;
+  border: 0;
+  font-family: inherit;
+  padding: 12px 0;
+  height: 48px;
+  font-size: 16px;
+  font-weight: 500;
+  border-bottom: 2px solid #c8ccd4;
+  background: none;
+  border-radius: 0;
+  color: #223254;
+  transition: all 0.15s ease; }
+
+.inp input:hover {
+  background: rgba(34, 50, 84, 0.03); }
+
+.inp input:not(:placeholder-shown) + span {
+  color: #5a667f;
+  transform: translateY(-26px) scale(0.75); }
+
+.inp input:focus {
+  background: none;
+  outline: none; }
+
+.inp input:focus + span {
+  color: #07f;
+  transform: translateY(-26px) scale(0.75); }
+
+.inp input:focus + span + .border {
+  transform: scaleX(1); }
+
+.imm-con-1 {
+  text-align: center;
+  margin-top: 20px; }
+  .imm-con-1 h6 {
+    margin: 30px 0px; }
+  .imm-con-1 .phone-parent, .imm-con-1 .imm-card {
+    width: 70%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    padding: 40px 0px;
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2), 0 4px 20px 0 rgba(0, 0, 0, 0.19); }
+    @media only screen and (max-width: 1000px) {
+      .imm-con-1 .phone-parent, .imm-con-1 .imm-card {
+        width: 100%; } }
+    .imm-con-1 .phone-parent .country-code, .imm-con-1 .imm-card .country-code {
+      width: 50px; }
+    .imm-con-1 .phone-parent .country-code + div, .imm-con-1 .imm-card .country-code + div {
+      width: 40%; }
+    .imm-con-1 .phone-parent .otp-box .bgWhite, .imm-con-1 .imm-card .otp-box .bgWhite {
+      background: white;
+      box-shadow: 0px 3px 6px 0px #cacaca; }
+    .imm-con-1 .phone-parent .otp-box .title, .imm-con-1 .imm-card .otp-box .title {
+      font-weight: 600;
+      margin-top: 20px;
+      font-size: 24px; }
+    .imm-con-1 .phone-parent .otp-box .customBtn, .imm-con-1 .imm-card .otp-box .customBtn {
+      border-radius: 0px;
+      padding: 10px; }
+    .imm-con-1 .phone-parent .otp-box form input, .imm-con-1 .imm-card .otp-box form input {
+      display: inline-block;
+      width: 50px;
+      height: 50px;
+      text-align: center; }
+    .imm-con-1 .phone-parent .clickdisabled, .imm-con-1 .imm-card .clickdisabled {
+      pointer-events: none; }
+  .imm-con-1 .form-logo {
+    width: 100px;
+    margin: auto; }
+  .imm-con-1 .modal-dialog {
+    transform: translate(0, 29%) !important; }
+  .imm-con-1 .imm-btngroup {
+    display: flex;
+    justify-content: space-around; }
+    @media only screen and (max-width: 768px) {
+      .imm-con-1 .imm-btngroup {
+        justify-content: space-between; } }
+
+@media only screen and (max-width: 768px) {
+  .imm-general-dtl .col-md-4, .imm-general-dtl .col-md-6 {
+    margin: 10px 0px; } }
+.imm-general-dtl .gender-input span {
+  top: 5px; }
+@media only screen and (max-width: 768px) {
+  .imm-general-dtl .inp {
+    width: 80%; } }
+.imm-general-dtl .gender-input .genderinp {
+  display: flex;
+  justify-content: flex-end; }
+  @media only screen and (max-width: 768px) {
+    .imm-general-dtl .gender-input .genderinp {
+      justify-content: center;
+      margin-top: 20px; } }
+  .imm-general-dtl .gender-input .genderinp div {
+    margin: 0px 20px; }
+.imm-general-dtl .wrapper-dropdown {
+  width: 100%; }
+@media only screen and (max-width: 768px) {
+  .imm-general-dtl .col-md-6 .wrapper-dropdown {
+    width: 80%; } }
+
+.imm-marital-status .marital-options {
+  text-align: left; }
+@media only screen and (max-width: 768px) {
+  .imm-marital-status .married-options .col-md-6 {
+    margin: 15px 0px; } }
+.imm-marital-status .married-options .spouse-income p {
+  margin: 15px 0px;
+  text-align: left;
+  color: #9d98a9; }
+.imm-marital-status .married-options .spouse-income .file-custom {
+  top: 50%; }
+  @media only screen and (max-width: 768px) {
+    .imm-marital-status .married-options .spouse-income .file-custom {
+      width: 92%;
+      margin: auto; } }
+  @media only screen and (min-width: 768px) {
+    .imm-marital-status .married-options .spouse-income .file-custom {
+      left: 6%; } }
+
+.imm-education-dtl .imm-card {
+  width: 100%; }
+  .imm-education-dtl .imm-card .edu-con {
+    width: 80%; }
+.imm-education-dtl .wrapper-dropdown {
+  width: auto; }
+  @media only screen and (min-width: 1200px) {
+    .imm-education-dtl .wrapper-dropdown {
+      margin-top: 5px; } }
+@media only screen and (max-width: 1200px) {
+  .imm-education-dtl .edu-row {
+    display: block; }
+    .imm-education-dtl .edu-row .col-md-3, .imm-education-dtl .edu-row .col-md-2 {
+      position: relative;
+      max-width: 100% !important;
+      min-height: 1px;
+      padding-right: 15px;
+      margin: 18px 0px;
+      padding-left: 15px; } }
+
+.imm-eng-dtl .wrapper-dropdown {
+  width: auto; }
+.imm-eng-dtl .eng-radio {
+  justify-content: space-between; }
+  @media only screen and (max-width: 768px) {
+    .imm-eng-dtl .eng-radio {
+      justify-content: space-around; } }
+  @media only screen and (max-width: 768px) {
+    .imm-eng-dtl .eng-radio .col-md-2, .imm-eng-dtl .eng-radio .col-md-4 {
+      width: auto; } }
+  .imm-eng-dtl .eng-radio .col-md-2 {
+    width: 22%;
+    padding: 0; }
+.imm-eng-dtl .toefl-section, .imm-eng-dtl .ielts-section, .imm-eng-dtl .pte-section, .imm-eng-dtl .oet-section {
+  display: none; }
+  .imm-eng-dtl .toefl-section h6, .imm-eng-dtl .ielts-section h6, .imm-eng-dtl .pte-section h6, .imm-eng-dtl .oet-section h6 {
+    background: #15ab9d;
+    color: #fff; }
+
+.imm-imm-detail .visa-reject-country {
+  display: none; }
+.imm-imm-detail .visa-adj {
+  display: flex;
+  justify-content: space-between; }
+  @media only screen and (max-width: 1200px) {
+    .imm-imm-detail .visa-adj {
+      display: block;
+      text-align: left; } }
+
+@media only screen and (max-width: 1200px) {
+  .imm-financial-dtl .col-md-6 {
+    max-width: 100%;
+    margin: 20px 0px; } }
+.imm-financial-dtl .other-financial-source, .imm-financial-dtl #other-financial-source {
+  display: none; }
+
+@media only screen and (max-width: 768px) {
+  small {
+    margin-left: 48px; } }
+
+#otpsubmit input {
+  border: 1px solid #15ab9d; }
+
+.imm-content {
+  display: none; }
+
+/*# sourceMappingURL=style.css.map */

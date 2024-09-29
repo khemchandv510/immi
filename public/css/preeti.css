@@ -1,0 +1,211 @@
+
+/*dashboardcss
+*/
+.k2dashboardheading{
+	font-weight: 800;
+	font-size: 15px;
+	color: #dc3545;
+}
+.k2dashboardtable thead th {background-color:#007bff;
+color: #ffffff;}
+.k2dashboardtable i {color:#dc3545; }
+.k2dashboardtable{text-align: center; border:4px solid #007bff;}
+.k2dashboardviewbtn{color: #dc3545; font-weight: 700;}
+.k2remindertxt{color: #dc3545;
+text-decoration: underline; }
+.k2walkinbtn{background-color: green;
+color: #ffffff;
+border:5px; 
+float: right;}
+/*end_of_dashboardcss
+*/
+
+/*dashboardclientcss
+*/
+
+.k2mytesting button{color: #ffffff;
+background-color:#dc3545;
+border:none;
+border-radius: 4px;}
+.k2contrydropdown{border:1px solid rgba(0,0,0,.125);
+width: 100%}
+.k2drpdwnheading{font-size: 15px;}
+.k2resetbtn{margin-top: 15px;}
+.k2datelabel{width: 100%;
+border:1px solid rgba(0,0,0,.125);
+height: 35px;}
+.k2dbclienttable th{background-color: #ffffff !important;
+color:#dc3545 !important; }
+.k2dbclienttable i{color: #dc3545;}
+.k2outerarchivebtn{float: right;}
+/*end_of_dashboardclientcss
+*/
+
+@media(max-width:567px){.k2clientopt{
+  display:inline-grid;
+}}
+
+.k2clientprofile div p{font-size: 25px;}
+.k2clientopt button{color: #ffffff;
+background-color:#008000;
+border:none;
+border-radius: 4px;
+/*display: inline-grid;*/
+padding: 5px;
+margin:5px;
+}
+.k2clientdbopt button{padding: 6px 14px;}
+.k2tbhead{border: 1px solid rgba(0,0,0,.125);
+    padding: 10px;
+    margin-bottom: 4px;}
+
+.k2clienttb thead th {background-color:#007bff;
+color: #ffffff;}
+.k2clienttb i {color:#fffff;}
+.k2clienttb {text-align: center; border:4px solid #007bff;}
+.k2dateadded{padding: 0px;}
+@media(max-width:760px){.k2dateadded{padding: 15px;}}
+
+/*
+step4
+*/
+.k2details{
+  
+    background-color:#f3f3f3;
+    }
+.k2details{
+  
+    background-color:#f3f3f3;
+    }
+
+  .k2tabs li
+    {
+        display: inline-block;
+    padding: 10px 27px 11px 34px;
+    border: 1px solid;
+    margin: -54px -41px 21px 41px;
+  }
+
+  .k2addnotice .btn-notice {
+    color: #fff;
+    background-color:#47ad47;
+    border-color: #47ad47;
+    width: 126px;
+  }
+  .k2col{
+    text-align: center;
+  }
+.k2col:nth-child(odd){
+ background-color:#f3f3f3;
+ 
+}
+.k2col:nth-child(even){
+  background-color: #f3f3f3;
+  
+}
+
+/* .k1col .col:nth-child(even) p{
+  position: absolute;
+    top: 30px;
+} */
+
+.k2col:nth-child(odd) p{
+  position: absolute;
+    bottom: 20px;
+}
+.k2number-menu{
+ 
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.k2number-child {
+  position: relative;
+  flex-basis: 10%;
+}
+
+
+
+.k2number-menu .k2number-child:nth-child(even) p{
+  position: absolute;
+    top: 30px;
+}
+.k2number-menu .k2number-child:nth-child(odd) p{
+  position: absolute;
+    bottom: 30px;
+}
+.k2number-child div{
+  height: 27px;
+  width: 33px;
+  background-color:#443f3f26;
+  
+  border-radius: 50%;
+  display: inline-block;
+
+}
+
+@media only screen and (max-width: 768px){
+  .k2number-child {
+  
+    flex-basis: 50%;
+  }
+
+  .k2number-menu .k2number-child:nth-child(even) p{
+    position: static;
+    top: 30px;
+  }
+  .k2number-menu .k2number-child:nth-child(odd) p{
+    position: static;
+      bottom: 30px;
+  }
+}
+.k2tabs {
+  overflow: hidden;
+}
+
+/* Style the buttons inside the tab */
+.k2tabs button {
+  background-color: inherit;
+  float: left;
+  border: 1px solid grey;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+  margin-right: 10px;
+}
+
+/* Change background color of buttons on hover */
+.k2tabs button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.k2tabs button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+.k2tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border-top: none;
+}
+.k2tabinfo{
+    padding: 10px;
+    margin-bottom: 4px;}
+
+  .k2clienttab{background-color: #ffffff;}
+
+  .k2caseopt button:nth-child(1), .k2caseopt button:nth-child(2){
+  background: #ec0e0e;
+  border:none;
+  color: #ffffff;
+}
+.k2caseopt button:nth-child(3), .k2caseopt button:nth-child(4), .k2caseopt button:nth-child(5){
+  background-color: #008000;
+  color: #ffffff;
+  border:none;
+}

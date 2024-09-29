@@ -1,0 +1,1 @@
+<script src="{{URL::asset('public/js/main.js')}}"></script>

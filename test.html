@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+<title>Insert title here</title>
+</head>
+<body>
+<h1>Hello World</h1>
+<button type="button" onclick="clickFunction()">Send Message!</button>
+<button type="button" onclick="closeFunction()">Close!</button>
+</body>
+<script>
+
+     var websocket = null;
+     var wsConnectionId = "";
+
+     function connectSocket() {
+         console.log("Connect Socket");
+       websocket = new WebSocket("wss://tpaqv9r7h0.execute-api.ap-south-1.amazonaws.com/staging");
+       websocket.onopen = onOpen;
+       websocket.onmessage = onMessage;
+       websocket.onerror = onError;
+       websocket.onclose = onClose;
+     }
+
+    function onOpen(evt) {
+        console.log("onOpen() begin, evt = " +  JSON.stringify(evt) + "websocket = " + websocket);
+        //websocket.send(JSON.stringify( { action : "defaultRoute" }));
+        /*var msg = JSON.parse(evt.data);
+        //console.log(msg);       
+        if (msg.hasOwnProperty('connectionId')) {
+          wsConnectionId = msg['connectionId'];
+          console.log("Connection Id :"+wsConnectionId);       
+        }*/
+        console.log("onOpen() end");
+    }
+
+    //on error event
+    function onError(evt) {
+        console.log('***onError() :' + evt);
+    }
+
+    //on close event
+    function onClose(evt) {
+        console.log('websocket closed :' + evt.code + ":" + evt.reason);
+        console.log(evt);
+    }
+
+    function onMessage(evt) {
+        var msg = JSON.parse(evt.data);
+        console.log(msg)
+        // var a  = JSON.parse(msg.body);   
+        
+        // console.log( a.lotId);
+        /*if (msg.hasOwnProperty('connectionId')) {
+          var wsConnectionId = msg['connectionId'];
+          console.log(wsConnectionId);       
+        }*/
+    }
+    
+    function clickFunction(){
+    	var jsonStr = {
+    		      bidValue: "100000",
+    			  bidTime: "",
+    			  lotId: "Lot101",
+    			  bidderId: "Eddy110"
+    	}
+    	websocket.send(JSON.stringify(jsonStr));
+    }
+    function closeFunction(){
+        websocket.close();
+    }
+    
+    window.addEventListener('load',connectSocket);
+    </script>
+</html>

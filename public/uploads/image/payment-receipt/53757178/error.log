@@ -1,0 +1,851 @@
+[26-Aug-2021 10:48:43 Europe/Berlin] PHP Notice:  Undefined index: text_company in C:\xampp\htdocs\client\app\views\contact\contact_list.tpl.php on line 24
+[26-Aug-2021 11:01:53 Europe/Berlin] PHP Notice:  Undefined index: text_expire_date in C:\xampp\htdocs\client\app\views\contact\contact_list.tpl.php on line 28
+[26-Aug-2021 11:02:05 Europe/Berlin] PHP Notice:  Undefined index: text_expire_date in C:\xampp\htdocs\client\app\views\contact\contact_list.tpl.php on line 28
+[26-Aug-2021 11:29:46 Europe/Berlin] PHP Notice:  Undefined index: firstname in C:\xampp\htdocs\client\app\views\contact\contact_list.tpl.php on line 36
+[26-Aug-2021 11:30:32 Europe/Berlin] PHP Notice:  Undefined index: firstname in C:\xampp\htdocs\client\app\views\contact\contact_list.tpl.php on line 36
+[26-Aug-2021 11:45:32 Europe/Berlin] PHP Notice:  Undefined index: firstname in C:\xampp\htdocs\client\app\views\contact\contact_list.tpl.php on line 37
+[26-Aug-2021 11:46:35 Europe/Berlin] PHP Notice:  Undefined index: text_firstname in C:\xampp\htdocs\client\app\views\contact\contact_list.tpl.php on line 24
+[26-Aug-2021 11:46:35 Europe/Berlin] PHP Notice:  Undefined index: firstname in C:\xampp\htdocs\client\app\views\contact\contact_list.tpl.php on line 37
+[26-Aug-2021 11:47:54 Europe/Berlin] PHP Notice:  Undefined index: text_firstname in C:\xampp\htdocs\client\app\views\contact\contact_list.tpl.php on line 24
+[26-Aug-2021 11:47:54 Europe/Berlin] PHP Notice:  Undefined index: firstname in C:\xampp\htdocs\client\app\views\contact\contact_list.tpl.php on line 37
+[26-Aug-2021 11:48:08 Europe/Berlin] PHP Notice:  Undefined index: firstname in C:\xampp\htdocs\client\app\views\contact\contact_list.tpl.php on line 37
+[26-Aug-2021 11:52:21 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'company' (T_STRING), expecting ',' or ';' in C:\xampp\htdocs\client\app\views\contact\contact_list.tpl.php on line 37
+[26-Aug-2021 11:52:34 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'company' (T_STRING), expecting ',' or ';' in C:\xampp\htdocs\client\app\views\contact\contact_list.tpl.php on line 37
+[26-Aug-2021 12:45:40 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\client\app\views\contact\contact_list.tpl.php on line 33
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 22
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: user in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 34
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 37
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 51
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 53
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 56
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 59
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 62
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 64
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 66
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 66
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 69
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 72
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 74
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 76
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 78
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 80
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 82
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 84
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 87
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 90
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 92
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 94
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 97
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 100
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 103
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 107
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 109
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 112
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 115
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 118
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 122
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 124
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 127
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 130
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 133
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 136
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 139
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 142
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 145
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 148
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 153
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 307
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 310
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 311
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 312
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 313
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 317
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 327
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 333
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 333
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 339
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 339
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 345
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 345
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 351
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 351
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: user in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 370
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: user in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 370
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: user in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 371
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 376
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 377
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 378
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 379
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 379
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\header.tpl.php on line 383
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: page_title in C:\xampp\htdocs\client\app\views\contact\contact_list.tpl.php on line 9
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: admin in C:\xampp\htdocs\client\app\views\contact\contact_list.tpl.php on line 12
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\contact\contact_list.tpl.php on line 15
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\contact\contact_list.tpl.php on line 24
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\contact\contact_list.tpl.php on line 25
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\contact\contact_list.tpl.php on line 26
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\contact\contact_list.tpl.php on line 27
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\contact\contact_list.tpl.php on line 28
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\contact\contact_list.tpl.php on line 29
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: result in C:\xampp\htdocs\client\app\views\contact\contact_list.tpl.php on line 33
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\contact\contact_list.tpl.php on line 67
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\contact\contact_list.tpl.php on line 72
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\contact\contact_list.tpl.php on line 75
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\contact\contact_list.tpl.php on line 80
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\contact\contact_list.tpl.php on line 81
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\contact\contact_list.tpl.php on line 93
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\contact\contact_list.tpl.php on line 100
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\contact\contact_list.tpl.php on line 100
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\contact\contact_list.tpl.php on line 109
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\contact\contact_list.tpl.php on line 119
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\contact\contact_list.tpl.php on line 122
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\footer.tpl.php on line 2
+[26-Aug-2021 12:46:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in C:\xampp\htdocs\client\app\views\common\footer.tpl.php on line 3
+[26-Aug-2021 12:46:52 Europe/Berlin] PHP Parse error:  syntax error, unexpected ']', expecting ',' or ')' in C:\xampp\htdocs\client\app\http\controllers\ContactController.php on line 56
+[26-Aug-2021 13:30:00 Europe/Berlin] PHP Notice:  Undefined variable: commons in C:\xampp\htdocs\client\app\views\contact\contact_list.tpl.php on line 33
+[26-Aug-2021 13:30:55 Europe/Berlin] PHP Notice:  Undefined variable: commons in C:\xampp\htdocs\client\app\views\contact\contact_list.tpl.php on line 34
+[26-Aug-2021 13:48:58 Europe/Berlin] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in C:\xampp\htdocs\client\app\http\models\Contact.php on line 11
+[26-Aug-2021 13:52:37 Europe/Berlin] PHP Notice:  Undefined variable: query in C:\xampp\htdocs\client\app\http\models\Contact.php on line 16
+[26-Aug-2021 13:52:37 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\client\app\http\models\Contact.php on line 16
+[26-Aug-2021 13:52:38 Europe/Berlin] PHP Notice:  Undefined variable: query in C:\xampp\htdocs\client\app\http\models\Contact.php on line 16
+[26-Aug-2021 13:52:38 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\client\app\http\models\Contact.php on line 16
+[26-Aug-2021 13:53:01 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\client\builder\engine\Database.php on line 48
+[26-Aug-2021 13:53:01 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in C:\xampp\htdocs\client\builder\engine\Database.php:49
+Stack trace:
+#0 C:\xampp\htdocs\client\app\http\models\Contact.php(11): Database->query(false)
+#1 C:\xampp\htdocs\client\app\http\controllers\ContactController.php(37): Contact->getContacts()
+#2 C:\xampp\htdocs\client\builder\engine\Router.php(52): ContactController->index()
+#3 C:\xampp\htdocs\client\builder\engine\Router.php(41): Router->dispatch(Array)
+#4 C:\xampp\htdocs\client\builder\bootstrap.php(80): Router->route('customer', 'GET')
+#5 C:\xampp\htdocs\client\index.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\client\builder\engine\Database.php on line 49
+[06-Sep-2021 07:07:19 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\client\builder\engine\Database.php on line 16
+[06-Sep-2021 07:07:19 Europe/Berlin] PHP Warning:  Database::connect(): Couldn't fetch mysqli in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:07:19 Europe/Berlin] PHP Warning:  Database::connect(): Couldn't fetch mysqli in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:07:19 Europe/Berlin] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in C:\xampp\htdocs\client\builder\engine\Database.php:19
+Stack trace:
+#0 C:\xampp\htdocs\client\builder\engine\Model.php(13): Database->connect('localhost', 'root', 'admin@321', 'client')
+#1 C:\xampp\htdocs\client\app\http\controllers\CommonsController.php(26): Model->__construct()
+#2 C:\xampp\htdocs\client\app\http\controllers\LoginController.php(43): CommonsController->getInfo()
+#3 C:\xampp\htdocs\client\builder\engine\Router.php(52): LoginController->index()
+#4 C:\xampp\htdocs\client\builder\engine\Router.php(41): Router->dispatch(Array)
+#5 C:\xampp\htdocs\client\builder\bootstrap.php(80): Router->route('login', 'GET')
+#6 C:\xampp\htdocs\client\index.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:11:20 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\client\builder\engine\Database.php on line 16
+[06-Sep-2021 07:11:20 Europe/Berlin] PHP Warning:  Database::connect(): Couldn't fetch mysqli in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:11:20 Europe/Berlin] PHP Warning:  Database::connect(): Couldn't fetch mysqli in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:11:20 Europe/Berlin] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in C:\xampp\htdocs\client\builder\engine\Database.php:19
+Stack trace:
+#0 C:\xampp\htdocs\client\builder\engine\Model.php(13): Database->connect('localhost', 'root', 'admin@321', 'client')
+#1 C:\xampp\htdocs\client\app\http\controllers\CommonsController.php(26): Model->__construct()
+#2 C:\xampp\htdocs\client\app\http\controllers\LoginController.php(43): CommonsController->getInfo()
+#3 C:\xampp\htdocs\client\builder\engine\Router.php(52): LoginController->index()
+#4 C:\xampp\htdocs\client\builder\engine\Router.php(41): Router->dispatch(Array)
+#5 C:\xampp\htdocs\client\builder\bootstrap.php(80): Router->route('login', 'GET')
+#6 C:\xampp\htdocs\client\index.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:19:51 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\client\builder\engine\Database.php on line 16
+[06-Sep-2021 07:19:51 Europe/Berlin] PHP Warning:  Database::connect(): Couldn't fetch mysqli in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:19:51 Europe/Berlin] PHP Warning:  Database::connect(): Couldn't fetch mysqli in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:19:51 Europe/Berlin] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in C:\xampp\htdocs\client\builder\engine\Database.php:19
+Stack trace:
+#0 C:\xampp\htdocs\client\builder\engine\Model.php(13): Database->connect('localhost', 'root', 'admin@321', 'client')
+#1 C:\xampp\htdocs\client\app\http\controllers\CommonsController.php(26): Model->__construct()
+#2 C:\xampp\htdocs\client\app\http\controllers\LoginController.php(43): CommonsController->getInfo()
+#3 C:\xampp\htdocs\client\builder\engine\Router.php(52): LoginController->index()
+#4 C:\xampp\htdocs\client\builder\engine\Router.php(41): Router->dispatch(Array)
+#5 C:\xampp\htdocs\client\builder\bootstrap.php(80): Router->route('login', 'GET')
+#6 C:\xampp\htdocs\client\index.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:20:36 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\client\builder\engine\Database.php on line 16
+[06-Sep-2021 07:20:36 Europe/Berlin] PHP Warning:  Database::connect(): Couldn't fetch mysqli in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:20:36 Europe/Berlin] PHP Warning:  Database::connect(): Couldn't fetch mysqli in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:20:36 Europe/Berlin] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in C:\xampp\htdocs\client\builder\engine\Database.php:19
+Stack trace:
+#0 C:\xampp\htdocs\client\builder\engine\Model.php(13): Database->connect('localhost', 'root', 'admin@321', 'client')
+#1 C:\xampp\htdocs\client\app\http\controllers\CommonsController.php(26): Model->__construct()
+#2 C:\xampp\htdocs\client\app\http\controllers\LoginController.php(43): CommonsController->getInfo()
+#3 C:\xampp\htdocs\client\builder\engine\Router.php(52): LoginController->index()
+#4 C:\xampp\htdocs\client\builder\engine\Router.php(41): Router->dispatch(Array)
+#5 C:\xampp\htdocs\client\builder\bootstrap.php(80): Router->route('login', 'GET')
+#6 C:\xampp\htdocs\client\index.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:20:37 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\client\builder\engine\Database.php on line 16
+[06-Sep-2021 07:20:37 Europe/Berlin] PHP Warning:  Database::connect(): Couldn't fetch mysqli in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:20:37 Europe/Berlin] PHP Warning:  Database::connect(): Couldn't fetch mysqli in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:20:37 Europe/Berlin] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in C:\xampp\htdocs\client\builder\engine\Database.php:19
+Stack trace:
+#0 C:\xampp\htdocs\client\builder\engine\Model.php(13): Database->connect('localhost', 'root', 'admin@321', 'client')
+#1 C:\xampp\htdocs\client\app\http\controllers\CommonsController.php(26): Model->__construct()
+#2 C:\xampp\htdocs\client\app\http\controllers\LoginController.php(43): CommonsController->getInfo()
+#3 C:\xampp\htdocs\client\builder\engine\Router.php(52): LoginController->index()
+#4 C:\xampp\htdocs\client\builder\engine\Router.php(41): Router->dispatch(Array)
+#5 C:\xampp\htdocs\client\builder\bootstrap.php(80): Router->route('login', 'GET')
+#6 C:\xampp\htdocs\client\index.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:20:37 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\client\builder\engine\Database.php on line 16
+[06-Sep-2021 07:20:37 Europe/Berlin] PHP Warning:  Database::connect(): Couldn't fetch mysqli in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:20:37 Europe/Berlin] PHP Warning:  Database::connect(): Couldn't fetch mysqli in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:20:37 Europe/Berlin] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in C:\xampp\htdocs\client\builder\engine\Database.php:19
+Stack trace:
+#0 C:\xampp\htdocs\client\builder\engine\Model.php(13): Database->connect('localhost', 'root', 'admin@321', 'client')
+#1 C:\xampp\htdocs\client\app\http\controllers\CommonsController.php(26): Model->__construct()
+#2 C:\xampp\htdocs\client\app\http\controllers\LoginController.php(43): CommonsController->getInfo()
+#3 C:\xampp\htdocs\client\builder\engine\Router.php(52): LoginController->index()
+#4 C:\xampp\htdocs\client\builder\engine\Router.php(41): Router->dispatch(Array)
+#5 C:\xampp\htdocs\client\builder\bootstrap.php(80): Router->route('login', 'GET')
+#6 C:\xampp\htdocs\client\index.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:20:37 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\client\builder\engine\Database.php on line 16
+[06-Sep-2021 07:20:37 Europe/Berlin] PHP Warning:  Database::connect(): Couldn't fetch mysqli in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:20:37 Europe/Berlin] PHP Warning:  Database::connect(): Couldn't fetch mysqli in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:20:37 Europe/Berlin] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in C:\xampp\htdocs\client\builder\engine\Database.php:19
+Stack trace:
+#0 C:\xampp\htdocs\client\builder\engine\Model.php(13): Database->connect('localhost', 'root', 'admin@321', 'client')
+#1 C:\xampp\htdocs\client\app\http\controllers\CommonsController.php(26): Model->__construct()
+#2 C:\xampp\htdocs\client\app\http\controllers\LoginController.php(43): CommonsController->getInfo()
+#3 C:\xampp\htdocs\client\builder\engine\Router.php(52): LoginController->index()
+#4 C:\xampp\htdocs\client\builder\engine\Router.php(41): Router->dispatch(Array)
+#5 C:\xampp\htdocs\client\builder\bootstrap.php(80): Router->route('login', 'GET')
+#6 C:\xampp\htdocs\client\index.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:20:38 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\client\builder\engine\Database.php on line 16
+[06-Sep-2021 07:20:38 Europe/Berlin] PHP Warning:  Database::connect(): Couldn't fetch mysqli in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:20:38 Europe/Berlin] PHP Warning:  Database::connect(): Couldn't fetch mysqli in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:20:38 Europe/Berlin] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in C:\xampp\htdocs\client\builder\engine\Database.php:19
+Stack trace:
+#0 C:\xampp\htdocs\client\builder\engine\Model.php(13): Database->connect('localhost', 'root', 'admin@321', 'client')
+#1 C:\xampp\htdocs\client\app\http\controllers\CommonsController.php(26): Model->__construct()
+#2 C:\xampp\htdocs\client\app\http\controllers\LoginController.php(43): CommonsController->getInfo()
+#3 C:\xampp\htdocs\client\builder\engine\Router.php(52): LoginController->index()
+#4 C:\xampp\htdocs\client\builder\engine\Router.php(41): Router->dispatch(Array)
+#5 C:\xampp\htdocs\client\builder\bootstrap.php(80): Router->route('login', 'GET')
+#6 C:\xampp\htdocs\client\index.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:20:38 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\client\builder\engine\Database.php on line 16
+[06-Sep-2021 07:20:38 Europe/Berlin] PHP Warning:  Database::connect(): Couldn't fetch mysqli in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:20:38 Europe/Berlin] PHP Warning:  Database::connect(): Couldn't fetch mysqli in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:20:38 Europe/Berlin] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in C:\xampp\htdocs\client\builder\engine\Database.php:19
+Stack trace:
+#0 C:\xampp\htdocs\client\builder\engine\Model.php(13): Database->connect('localhost', 'root', 'admin@321', 'client')
+#1 C:\xampp\htdocs\client\app\http\controllers\CommonsController.php(26): Model->__construct()
+#2 C:\xampp\htdocs\client\app\http\controllers\LoginController.php(43): CommonsController->getInfo()
+#3 C:\xampp\htdocs\client\builder\engine\Router.php(52): LoginController->index()
+#4 C:\xampp\htdocs\client\builder\engine\Router.php(41): Router->dispatch(Array)
+#5 C:\xampp\htdocs\client\builder\bootstrap.php(80): Router->route('login', 'GET')
+#6 C:\xampp\htdocs\client\index.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:20:38 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\client\builder\engine\Database.php on line 16
+[06-Sep-2021 07:20:38 Europe/Berlin] PHP Warning:  Database::connect(): Couldn't fetch mysqli in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:20:38 Europe/Berlin] PHP Warning:  Database::connect(): Couldn't fetch mysqli in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:20:38 Europe/Berlin] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in C:\xampp\htdocs\client\builder\engine\Database.php:19
+Stack trace:
+#0 C:\xampp\htdocs\client\builder\engine\Model.php(13): Database->connect('localhost', 'root', 'admin@321', 'client')
+#1 C:\xampp\htdocs\client\app\http\controllers\CommonsController.php(26): Model->__construct()
+#2 C:\xampp\htdocs\client\app\http\controllers\LoginController.php(43): CommonsController->getInfo()
+#3 C:\xampp\htdocs\client\builder\engine\Router.php(52): LoginController->index()
+#4 C:\xampp\htdocs\client\builder\engine\Router.php(41): Router->dispatch(Array)
+#5 C:\xampp\htdocs\client\builder\bootstrap.php(80): Router->route('login', 'GET')
+#6 C:\xampp\htdocs\client\index.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:24:10 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\client\builder\engine\Database.php on line 16
+[06-Sep-2021 07:24:10 Europe/Berlin] PHP Warning:  Database::connect(): Couldn't fetch mysqli in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:24:10 Europe/Berlin] PHP Warning:  Database::connect(): Couldn't fetch mysqli in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:24:10 Europe/Berlin] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in C:\xampp\htdocs\client\builder\engine\Database.php:19
+Stack trace:
+#0 C:\xampp\htdocs\client\builder\engine\Model.php(13): Database->connect('localhost', 'root', 'admin@321', 'client')
+#1 C:\xampp\htdocs\client\app\http\controllers\CommonsController.php(26): Model->__construct()
+#2 C:\xampp\htdocs\client\app\http\controllers\LoginController.php(43): CommonsController->getInfo()
+#3 C:\xampp\htdocs\client\builder\engine\Router.php(52): LoginController->index()
+#4 C:\xampp\htdocs\client\builder\engine\Router.php(41): Router->dispatch(Array)
+#5 C:\xampp\htdocs\client\builder\bootstrap.php(80): Router->route('login', 'GET')
+#6 C:\xampp\htdocs\client\index.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:24:23 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\client\builder\engine\Database.php on line 16
+[06-Sep-2021 07:24:23 Europe/Berlin] PHP Warning:  Database::connect(): Couldn't fetch mysqli in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:24:23 Europe/Berlin] PHP Warning:  Database::connect(): Couldn't fetch mysqli in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:24:23 Europe/Berlin] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in C:\xampp\htdocs\client\builder\engine\Database.php:19
+Stack trace:
+#0 C:\xampp\htdocs\client\builder\engine\Model.php(13): Database->connect('localhost', 'root', 'admin@321', 'client')
+#1 C:\xampp\htdocs\client\app\http\controllers\CommonsController.php(26): Model->__construct()
+#2 C:\xampp\htdocs\client\app\http\controllers\LoginController.php(43): CommonsController->getInfo()
+#3 C:\xampp\htdocs\client\builder\engine\Router.php(52): LoginController->index()
+#4 C:\xampp\htdocs\client\builder\engine\Router.php(41): Router->dispatch(Array)
+#5 C:\xampp\htdocs\client\builder\bootstrap.php(80): Router->route('login', 'GET')
+#6 C:\xampp\htdocs\client\index.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:25:52 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\client\builder\engine\Database.php on line 16
+[06-Sep-2021 07:25:52 Europe/Berlin] PHP Warning:  Database::connect(): Couldn't fetch mysqli in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:25:52 Europe/Berlin] PHP Warning:  Database::connect(): Couldn't fetch mysqli in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:25:52 Europe/Berlin] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in C:\xampp\htdocs\client\builder\engine\Database.php:19
+Stack trace:
+#0 C:\xampp\htdocs\client\builder\engine\Model.php(13): Database->connect('localhost', 'root', 'admin@321', 'client')
+#1 C:\xampp\htdocs\client\app\http\controllers\CommonsController.php(26): Model->__construct()
+#2 C:\xampp\htdocs\client\app\http\controllers\LoginController.php(43): CommonsController->getInfo()
+#3 C:\xampp\htdocs\client\builder\engine\Router.php(52): LoginController->index()
+#4 C:\xampp\htdocs\client\builder\engine\Router.php(41): Router->dispatch(Array)
+#5 C:\xampp\htdocs\client\builder\bootstrap.php(80): Router->route('login', 'GET')
+#6 C:\xampp\htdocs\client\index.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:26:41 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\client\builder\engine\Database.php on line 16
+[06-Sep-2021 07:26:41 Europe/Berlin] PHP Warning:  Database::connect(): Couldn't fetch mysqli in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:26:41 Europe/Berlin] PHP Warning:  Database::connect(): Couldn't fetch mysqli in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:26:41 Europe/Berlin] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in C:\xampp\htdocs\client\builder\engine\Database.php:19
+Stack trace:
+#0 C:\xampp\htdocs\client\builder\engine\Model.php(13): Database->connect('localhost', 'root', 'admin@321', 'client')
+#1 C:\xampp\htdocs\client\app\http\controllers\CommonsController.php(26): Model->__construct()
+#2 C:\xampp\htdocs\client\app\http\controllers\LoginController.php(43): CommonsController->getInfo()
+#3 C:\xampp\htdocs\client\builder\engine\Router.php(52): LoginController->index()
+#4 C:\xampp\htdocs\client\builder\engine\Router.php(41): Router->dispatch(Array)
+#5 C:\xampp\htdocs\client\builder\bootstrap.php(80): Router->route('login', 'GET')
+#6 C:\xampp\htdocs\client\index.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:29:12 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\client\builder\engine\Database.php on line 16
+[06-Sep-2021 07:29:12 Europe/Berlin] PHP Warning:  Database::connect(): Couldn't fetch mysqli in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:29:12 Europe/Berlin] PHP Warning:  Database::connect(): Couldn't fetch mysqli in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:29:12 Europe/Berlin] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in C:\xampp\htdocs\client\builder\engine\Database.php:19
+Stack trace:
+#0 C:\xampp\htdocs\client\builder\engine\Model.php(13): Database->connect('localhost', 'root', 'admin@321', 'client')
+#1 C:\xampp\htdocs\client\app\http\controllers\CommonsController.php(26): Model->__construct()
+#2 C:\xampp\htdocs\client\app\http\controllers\LoginController.php(43): CommonsController->getInfo()
+#3 C:\xampp\htdocs\client\builder\engine\Router.php(52): LoginController->index()
+#4 C:\xampp\htdocs\client\builder\engine\Router.php(41): Router->dispatch(Array)
+#5 C:\xampp\htdocs\client\builder\bootstrap.php(80): Router->route('login', 'GET')
+#6 C:\xampp\htdocs\client\index.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:32:39 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\client\builder\engine\Database.php on line 16
+[06-Sep-2021 07:32:39 Europe/Berlin] PHP Warning:  Database::connect(): Couldn't fetch mysqli in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:32:39 Europe/Berlin] PHP Warning:  Database::connect(): Couldn't fetch mysqli in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 07:32:39 Europe/Berlin] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in C:\xampp\htdocs\client\builder\engine\Database.php:19
+Stack trace:
+#0 C:\xampp\htdocs\client\builder\engine\Model.php(13): Database->connect('localhost', 'root', 'admin@321', 'client')
+#1 C:\xampp\htdocs\client\app\http\controllers\CommonsController.php(26): Model->__construct()
+#2 C:\xampp\htdocs\client\app\http\controllers\LoginController.php(43): CommonsController->getInfo()
+#3 C:\xampp\htdocs\client\builder\engine\Router.php(52): LoginController->index()
+#4 C:\xampp\htdocs\client\builder\engine\Router.php(41): Router->dispatch(Array)
+#5 C:\xampp\htdocs\client\builder\bootstrap.php(80): Router->route('login', 'GET')
+#6 C:\xampp\htdocs\client\index.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 13:46:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Registry' not found in D:\download\xampp\htdocs\client\builder\bootstrap.php:55
+Stack trace:
+#0 D:\download\xampp\htdocs\client\index.php(34): require_once()
+#1 {main}
+  thrown in D:\download\xampp\htdocs\client\builder\bootstrap.php on line 55
+[06-Sep-2021 13:46:40 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Registry' not found in D:\download\xampp\htdocs\client\builder\bootstrap.php:55
+Stack trace:
+#0 D:\download\xampp\htdocs\client\index.php(34): require_once()
+#1 {main}
+  thrown in D:\download\xampp\htdocs\client\builder\bootstrap.php on line 55
+[06-Sep-2021 13:46:42 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Registry' not found in D:\download\xampp\htdocs\client\builder\bootstrap.php:55
+Stack trace:
+#0 D:\download\xampp\htdocs\client\index.php(34): require_once()
+#1 {main}
+  thrown in D:\download\xampp\htdocs\client\builder\bootstrap.php on line 55
+[06-Sep-2021 13:47:03 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Registry' not found in D:\download\xampp\htdocs\client\builder\bootstrap.php:55
+Stack trace:
+#0 D:\download\xampp\htdocs\client\index.php(34): require_once()
+#1 {main}
+  thrown in D:\download\xampp\htdocs\client\builder\bootstrap.php on line 55
+[06-Sep-2021 13:47:04 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Registry' not found in D:\download\xampp\htdocs\client\builder\bootstrap.php:55
+Stack trace:
+#0 D:\download\xampp\htdocs\client\index.php(34): require_once()
+#1 {main}
+  thrown in D:\download\xampp\htdocs\client\builder\bootstrap.php on line 55
+[06-Sep-2021 13:47:04 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Registry' not found in D:\download\xampp\htdocs\client\builder\bootstrap.php:55
+Stack trace:
+#0 D:\download\xampp\htdocs\client\index.php(34): require_once()
+#1 {main}
+  thrown in D:\download\xampp\htdocs\client\builder\bootstrap.php on line 55
+[06-Sep-2021 13:47:04 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Registry' not found in D:\download\xampp\htdocs\client\builder\bootstrap.php:55
+Stack trace:
+#0 D:\download\xampp\htdocs\client\index.php(34): require_once()
+#1 {main}
+  thrown in D:\download\xampp\htdocs\client\builder\bootstrap.php on line 55
+[06-Sep-2021 13:47:04 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Registry' not found in D:\download\xampp\htdocs\client\builder\bootstrap.php:55
+Stack trace:
+#0 D:\download\xampp\htdocs\client\index.php(34): require_once()
+#1 {main}
+  thrown in D:\download\xampp\htdocs\client\builder\bootstrap.php on line 55
+[06-Sep-2021 13:47:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Registry' not found in D:\download\xampp\htdocs\client\builder\bootstrap.php:55
+Stack trace:
+#0 D:\download\xampp\htdocs\client\index.php(34): require_once()
+#1 {main}
+  thrown in D:\download\xampp\htdocs\client\builder\bootstrap.php on line 55
+[06-Sep-2021 13:47:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Registry' not found in D:\download\xampp\htdocs\client\builder\bootstrap.php:55
+Stack trace:
+#0 D:\download\xampp\htdocs\client\index.php(34): require_once()
+#1 {main}
+  thrown in D:\download\xampp\htdocs\client\builder\bootstrap.php on line 55
+[06-Sep-2021 13:47:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Registry' not found in D:\download\xampp\htdocs\client\builder\bootstrap.php:55
+Stack trace:
+#0 D:\download\xampp\htdocs\client\index.php(34): require_once()
+#1 {main}
+  thrown in D:\download\xampp\htdocs\client\builder\bootstrap.php on line 55
+[06-Sep-2021 13:47:49 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Registry' not found in D:\download\xampp\htdocs\client\builder\bootstrap.php:55
+Stack trace:
+#0 D:\download\xampp\htdocs\client\index.php(34): require_once()
+#1 {main}
+  thrown in D:\download\xampp\htdocs\client\builder\bootstrap.php on line 55
+[06-Sep-2021 13:47:50 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Registry' not found in D:\download\xampp\htdocs\client\builder\bootstrap.php:55
+Stack trace:
+#0 D:\download\xampp\htdocs\client\index.php(34): require_once()
+#1 {main}
+  thrown in D:\download\xampp\htdocs\client\builder\bootstrap.php on line 55
+[06-Sep-2021 13:47:50 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Registry' not found in D:\download\xampp\htdocs\client\builder\bootstrap.php:55
+Stack trace:
+#0 D:\download\xampp\htdocs\client\index.php(34): require_once()
+#1 {main}
+  thrown in D:\download\xampp\htdocs\client\builder\bootstrap.php on line 55
+[06-Sep-2021 13:47:50 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Registry' not found in D:\download\xampp\htdocs\client\builder\bootstrap.php:55
+Stack trace:
+#0 D:\download\xampp\htdocs\client\index.php(34): require_once()
+#1 {main}
+  thrown in D:\download\xampp\htdocs\client\builder\bootstrap.php on line 55
+[06-Sep-2021 13:48:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Registry' not found in D:\download\xampp\htdocs\client\builder\bootstrap.php:55
+Stack trace:
+#0 D:\download\xampp\htdocs\client\index.php(34): require_once()
+#1 {main}
+  thrown in D:\download\xampp\htdocs\client\builder\bootstrap.php on line 55
+[06-Sep-2021 13:48:54 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'client'@'localhost' (using password: YES) in D:\download\xampp\htdocs\client\builder\engine\Database.php on line 16
+[06-Sep-2021 13:48:54 Europe/Berlin] PHP Warning:  Database::connect(): Couldn't fetch mysqli in D:\download\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 13:48:54 Europe/Berlin] PHP Warning:  Database::connect(): Couldn't fetch mysqli in D:\download\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 13:48:54 Europe/Berlin] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in D:\download\xampp\htdocs\client\builder\engine\Database.php:19
+Stack trace:
+#0 D:\download\xampp\htdocs\client\builder\engine\Model.php(13): Database->connect('localhost', 'client', 'dRsgDKz4wLeFbic...', 'client')
+#1 D:\download\xampp\htdocs\client\app\http\controllers\CommonsController.php(26): Model->__construct()
+#2 D:\download\xampp\htdocs\client\app\http\controllers\LoginController.php(43): CommonsController->getInfo()
+#3 D:\download\xampp\htdocs\client\builder\engine\Router.php(52): LoginController->index()
+#4 D:\download\xampp\htdocs\client\builder\engine\Router.php(41): Router->dispatch(Array)
+#5 D:\download\xampp\htdocs\client\builder\bootstrap.php(80): Router->route('login', 'GET')
+#6 D:\download\xampp\htdocs\client\index.php(34): require_once('D:\\download\\xam...')
+#7 {main}
+  thrown in D:\download\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 13:50:33 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'client'@'localhost' (using password: YES) in D:\download\xampp\htdocs\client\builder\engine\Database.php on line 16
+[06-Sep-2021 13:50:33 Europe/Berlin] PHP Warning:  Database::connect(): Couldn't fetch mysqli in D:\download\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 13:50:33 Europe/Berlin] PHP Warning:  Database::connect(): Couldn't fetch mysqli in D:\download\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 13:50:33 Europe/Berlin] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in D:\download\xampp\htdocs\client\builder\engine\Database.php:19
+Stack trace:
+#0 D:\download\xampp\htdocs\client\builder\engine\Model.php(13): Database->connect('localhost', 'client', 'dRsgDKz4wLeFbic...', 'client')
+#1 D:\download\xampp\htdocs\client\app\http\controllers\CommonsController.php(26): Model->__construct()
+#2 D:\download\xampp\htdocs\client\app\http\controllers\LoginController.php(43): CommonsController->getInfo()
+#3 D:\download\xampp\htdocs\client\builder\engine\Router.php(52): LoginController->index()
+#4 D:\download\xampp\htdocs\client\builder\engine\Router.php(41): Router->dispatch(Array)
+#5 D:\download\xampp\htdocs\client\builder\bootstrap.php(80): Router->route('login', 'GET')
+#6 D:\download\xampp\htdocs\client\index.php(34): require_once('D:\\download\\xam...')
+#7 {main}
+  thrown in D:\download\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 13:50:37 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'client'@'localhost' (using password: YES) in D:\download\xampp\htdocs\client\builder\engine\Database.php on line 16
+[06-Sep-2021 13:50:37 Europe/Berlin] PHP Warning:  Database::connect(): Couldn't fetch mysqli in D:\download\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 13:50:37 Europe/Berlin] PHP Warning:  Database::connect(): Couldn't fetch mysqli in D:\download\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 13:50:37 Europe/Berlin] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in D:\download\xampp\htdocs\client\builder\engine\Database.php:19
+Stack trace:
+#0 D:\download\xampp\htdocs\client\builder\engine\Model.php(13): Database->connect('localhost', 'client', 'dRsgDKz4wLeFbic...', 'client')
+#1 D:\download\xampp\htdocs\client\app\http\controllers\CommonsController.php(26): Model->__construct()
+#2 D:\download\xampp\htdocs\client\app\http\controllers\LoginController.php(43): CommonsController->getInfo()
+#3 D:\download\xampp\htdocs\client\builder\engine\Router.php(52): LoginController->index()
+#4 D:\download\xampp\htdocs\client\builder\engine\Router.php(41): Router->dispatch(Array)
+#5 D:\download\xampp\htdocs\client\builder\bootstrap.php(80): Router->route('login', 'GET')
+#6 D:\download\xampp\htdocs\client\index.php(34): require_once('D:\\download\\xam...')
+#7 {main}
+  thrown in D:\download\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 13:50:47 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'client'@'localhost' (using password: YES) in D:\download\xampp\htdocs\client\builder\engine\Database.php on line 16
+[06-Sep-2021 13:50:47 Europe/Berlin] PHP Warning:  Database::connect(): Couldn't fetch mysqli in D:\download\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 13:50:47 Europe/Berlin] PHP Warning:  Database::connect(): Couldn't fetch mysqli in D:\download\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 13:50:47 Europe/Berlin] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in D:\download\xampp\htdocs\client\builder\engine\Database.php:19
+Stack trace:
+#0 D:\download\xampp\htdocs\client\builder\engine\Model.php(13): Database->connect('localhost', 'client', 'dRsgDKz4wLeFbic...', 'client')
+#1 D:\download\xampp\htdocs\client\app\http\controllers\CommonsController.php(26): Model->__construct()
+#2 D:\download\xampp\htdocs\client\app\http\controllers\LoginController.php(43): CommonsController->getInfo()
+#3 D:\download\xampp\htdocs\client\builder\engine\Router.php(52): LoginController->index()
+#4 D:\download\xampp\htdocs\client\builder\engine\Router.php(41): Router->dispatch(Array)
+#5 D:\download\xampp\htdocs\client\builder\bootstrap.php(80): Router->route('login', 'GET')
+#6 D:\download\xampp\htdocs\client\index.php(34): require_once('D:\\download\\xam...')
+#7 {main}
+  thrown in D:\download\xampp\htdocs\client\builder\engine\Database.php on line 19
+[06-Sep-2021 13:50:52 Europe/Berlin] PHP Notice:  Trying to get property 'num_rows' of non-object in D:\download\xampp\htdocs\client\app\http\models\Commons.php on line 21
+[06-Sep-2021 13:50:52 Europe/Berlin] PHP Warning:  Illegal string offset 'language' in D:\download\xampp\htdocs\client\app\http\controllers\LoginController.php on line 46
+[06-Sep-2021 13:50:52 Europe/Berlin] PHP Notice:  Uninitialized string offset: 0 in D:\download\xampp\htdocs\client\app\http\controllers\LoginController.php on line 46
+[06-Sep-2021 13:50:52 Europe/Berlin] PHP Warning:  require(D:/download/xampp/htdocs/client/builder/language//common.php): failed to open stream: No such file or directory in D:\download\xampp\htdocs\client\app\http\controllers\LoginController.php on line 46
+[06-Sep-2021 13:50:52 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'D:/download/xampp/htdocs/client/builder/language//common.php' (include_path='D:\download\xampp\php\PEAR') in D:\download\xampp\htdocs\client\app\http\controllers\LoginController.php on line 46
+[06-Sep-2021 13:51:03 Europe/Berlin] PHP Notice:  Trying to get property 'num_rows' of non-object in D:\download\xampp\htdocs\client\app\http\models\Commons.php on line 21
+[06-Sep-2021 13:51:03 Europe/Berlin] PHP Warning:  Illegal string offset 'language' in D:\download\xampp\htdocs\client\app\http\controllers\LoginController.php on line 46
+[06-Sep-2021 13:51:03 Europe/Berlin] PHP Notice:  Uninitialized string offset: 0 in D:\download\xampp\htdocs\client\app\http\controllers\LoginController.php on line 46
+[06-Sep-2021 13:51:03 Europe/Berlin] PHP Warning:  require(D:/download/xampp/htdocs/client/builder/language//common.php): failed to open stream: No such file or directory in D:\download\xampp\htdocs\client\app\http\controllers\LoginController.php on line 46
+[06-Sep-2021 13:51:03 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'D:/download/xampp/htdocs/client/builder/language//common.php' (include_path='D:\download\xampp\php\PEAR') in D:\download\xampp\htdocs\client\app\http\controllers\LoginController.php on line 46
+[06-Sep-2021 13:52:27 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 27
+[06-Sep-2021 13:52:27 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 38
+[06-Sep-2021 13:52:27 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 49
+[06-Sep-2021 13:52:27 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 60
+[06-Sep-2021 13:52:27 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 71
+[06-Sep-2021 13:52:27 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 82
+[06-Sep-2021 13:52:27 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 91
+[06-Sep-2021 13:52:27 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 100
+[06-Sep-2021 13:52:27 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 119
+[06-Sep-2021 13:52:27 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 120
+[06-Sep-2021 13:52:27 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 129
+[06-Sep-2021 13:52:27 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 137
+[06-Sep-2021 13:52:27 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 142
+[06-Sep-2021 13:52:31 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 27
+[06-Sep-2021 13:52:31 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 38
+[06-Sep-2021 13:52:31 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 49
+[06-Sep-2021 13:52:31 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 60
+[06-Sep-2021 13:52:31 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 71
+[06-Sep-2021 13:52:31 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 82
+[06-Sep-2021 13:52:31 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 91
+[06-Sep-2021 13:52:31 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 100
+[06-Sep-2021 13:52:31 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 119
+[06-Sep-2021 13:52:31 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 120
+[06-Sep-2021 13:52:31 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 129
+[06-Sep-2021 13:52:31 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 137
+[06-Sep-2021 13:52:31 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 142
+[06-Sep-2021 13:52:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 27
+[06-Sep-2021 13:52:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 38
+[06-Sep-2021 13:52:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 49
+[06-Sep-2021 13:52:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 60
+[06-Sep-2021 13:52:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 71
+[06-Sep-2021 13:52:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 82
+[06-Sep-2021 13:52:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 91
+[06-Sep-2021 13:52:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 100
+[06-Sep-2021 13:52:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 119
+[06-Sep-2021 13:52:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 120
+[06-Sep-2021 13:52:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 129
+[06-Sep-2021 13:52:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 137
+[06-Sep-2021 13:52:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 142
+[06-Sep-2021 13:53:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 27
+[06-Sep-2021 13:53:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 38
+[06-Sep-2021 13:53:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 49
+[06-Sep-2021 13:53:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 60
+[06-Sep-2021 13:53:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 71
+[06-Sep-2021 13:53:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 82
+[06-Sep-2021 13:53:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 91
+[06-Sep-2021 13:53:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 100
+[06-Sep-2021 13:53:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 119
+[06-Sep-2021 13:53:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 120
+[06-Sep-2021 13:53:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 129
+[06-Sep-2021 13:53:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 137
+[06-Sep-2021 13:53:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 142
+[06-Sep-2021 13:53:45 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 27
+[06-Sep-2021 13:53:45 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 38
+[06-Sep-2021 13:53:45 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 49
+[06-Sep-2021 13:53:45 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 60
+[06-Sep-2021 13:53:45 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 71
+[06-Sep-2021 13:53:45 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 82
+[06-Sep-2021 13:53:45 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 91
+[06-Sep-2021 13:53:45 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 100
+[06-Sep-2021 13:53:45 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 119
+[06-Sep-2021 13:53:45 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 120
+[06-Sep-2021 13:53:45 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 129
+[06-Sep-2021 13:53:45 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 137
+[06-Sep-2021 13:53:45 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 142
+[06-Sep-2021 13:53:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 27
+[06-Sep-2021 13:53:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 38
+[06-Sep-2021 13:53:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 49
+[06-Sep-2021 13:53:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 60
+[06-Sep-2021 13:53:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 71
+[06-Sep-2021 13:53:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 82
+[06-Sep-2021 13:53:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 91
+[06-Sep-2021 13:53:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 100
+[06-Sep-2021 13:53:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 119
+[06-Sep-2021 13:53:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 120
+[06-Sep-2021 13:53:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 129
+[06-Sep-2021 13:53:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 137
+[06-Sep-2021 13:53:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 142
+[06-Sep-2021 13:53:58 Europe/Berlin] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, bool given in D:\download\xampp\htdocs\client\app\http\controllers\DomainController.php on line 188
+[06-Sep-2021 13:53:58 Europe/Berlin] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, bool given in D:\download\xampp\htdocs\client\app\http\controllers\DomainController.php on line 189
+[06-Sep-2021 13:53:59 Europe/Berlin] PHP Notice:  Undefined index: currency in D:\download\xampp\htdocs\client\app\http\models\Domain.php on line 53
+[06-Sep-2021 13:53:59 Europe/Berlin] PHP Warning:  Header may not contain more than a single header, new line detected in D:\download\xampp\htdocs\client\builder\libs\Url.php on line 74
+[06-Sep-2021 13:54:02 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 27
+[06-Sep-2021 13:54:02 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 38
+[06-Sep-2021 13:54:02 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 49
+[06-Sep-2021 13:54:02 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 60
+[06-Sep-2021 13:54:02 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 71
+[06-Sep-2021 13:54:02 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 82
+[06-Sep-2021 13:54:02 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 91
+[06-Sep-2021 13:54:02 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 100
+[06-Sep-2021 13:54:02 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 119
+[06-Sep-2021 13:54:02 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 120
+[06-Sep-2021 13:54:02 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 129
+[06-Sep-2021 13:54:02 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 137
+[06-Sep-2021 13:54:02 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 142
+[06-Sep-2021 13:54:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 27
+[06-Sep-2021 13:54:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 38
+[06-Sep-2021 13:54:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 49
+[06-Sep-2021 13:54:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 60
+[06-Sep-2021 13:54:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 71
+[06-Sep-2021 13:54:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 82
+[06-Sep-2021 13:54:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 91
+[06-Sep-2021 13:54:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 100
+[06-Sep-2021 13:54:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 119
+[06-Sep-2021 13:54:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 120
+[06-Sep-2021 13:54:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 129
+[06-Sep-2021 13:54:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 137
+[06-Sep-2021 13:54:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 142
+[06-Sep-2021 13:54:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 27
+[06-Sep-2021 13:54:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 38
+[06-Sep-2021 13:54:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 49
+[06-Sep-2021 13:54:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 60
+[06-Sep-2021 13:54:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 71
+[06-Sep-2021 13:54:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 82
+[06-Sep-2021 13:54:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 91
+[06-Sep-2021 13:54:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 100
+[06-Sep-2021 13:54:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 119
+[06-Sep-2021 13:54:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 120
+[06-Sep-2021 13:54:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 129
+[06-Sep-2021 13:54:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 137
+[06-Sep-2021 13:54:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 142
+[06-Sep-2021 13:54:56 Europe/Berlin] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, bool given in D:\download\xampp\htdocs\client\app\http\controllers\DomainController.php on line 188
+[06-Sep-2021 13:54:56 Europe/Berlin] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, bool given in D:\download\xampp\htdocs\client\app\http\controllers\DomainController.php on line 189
+[06-Sep-2021 13:54:56 Europe/Berlin] PHP Notice:  Undefined index: currency in D:\download\xampp\htdocs\client\app\http\models\Domain.php on line 53
+[06-Sep-2021 13:54:56 Europe/Berlin] PHP Warning:  Header may not contain more than a single header, new line detected in D:\download\xampp\htdocs\client\builder\libs\Url.php on line 74
+[06-Sep-2021 13:55:01 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 27
+[06-Sep-2021 13:55:01 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 38
+[06-Sep-2021 13:55:01 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 49
+[06-Sep-2021 13:55:01 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 60
+[06-Sep-2021 13:55:01 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 71
+[06-Sep-2021 13:55:01 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 82
+[06-Sep-2021 13:55:02 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 91
+[06-Sep-2021 13:55:02 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 100
+[06-Sep-2021 13:55:02 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 119
+[06-Sep-2021 13:55:02 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 120
+[06-Sep-2021 13:55:02 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 129
+[06-Sep-2021 13:55:02 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 137
+[06-Sep-2021 13:55:02 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 142
+[06-Sep-2021 13:55:32 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 27
+[06-Sep-2021 13:55:32 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 38
+[06-Sep-2021 13:55:32 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 49
+[06-Sep-2021 13:55:32 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 60
+[06-Sep-2021 13:55:32 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 71
+[06-Sep-2021 13:55:32 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 82
+[06-Sep-2021 13:55:32 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 91
+[06-Sep-2021 13:55:32 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 100
+[06-Sep-2021 13:55:32 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 119
+[06-Sep-2021 13:55:32 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 120
+[06-Sep-2021 13:55:32 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 129
+[06-Sep-2021 13:55:32 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 137
+[06-Sep-2021 13:55:32 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 142
+[06-Sep-2021 13:55:39 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\project\project_form.tpl.php on line 48
+[06-Sep-2021 13:55:39 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\project\project_form.tpl.php on line 56
+[06-Sep-2021 13:55:39 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\project\project_form.tpl.php on line 68
+[06-Sep-2021 13:55:39 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\project\project_form.tpl.php on line 69
+[06-Sep-2021 13:55:39 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\project\project_form.tpl.php on line 70
+[06-Sep-2021 13:55:39 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\project\project_form.tpl.php on line 71
+[06-Sep-2021 13:55:39 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\project\project_form.tpl.php on line 94
+[06-Sep-2021 13:55:39 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\project\project_form.tpl.php on line 100
+[06-Sep-2021 13:55:39 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\project\project_form.tpl.php on line 109
+[06-Sep-2021 13:55:39 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\project\project_form.tpl.php on line 123
+[06-Sep-2021 13:55:39 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\project\project_form.tpl.php on line 132
+[06-Sep-2021 13:55:39 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\project\project_form.tpl.php on line 141
+[06-Sep-2021 13:55:39 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\project\project_form.tpl.php on line 153
+[06-Sep-2021 13:55:39 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\project\project_form.tpl.php on line 171
+[06-Sep-2021 13:55:39 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\project\project_form.tpl.php on line 231
+[06-Sep-2021 13:55:39 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\project\project_form.tpl.php on line 346
+[06-Sep-2021 13:55:39 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\project\project_form.tpl.php on line 423
+[06-Sep-2021 13:55:39 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\project\project_form.tpl.php on line 423
+[06-Sep-2021 13:55:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 27
+[06-Sep-2021 13:55:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 38
+[06-Sep-2021 13:55:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 49
+[06-Sep-2021 13:55:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 60
+[06-Sep-2021 13:55:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 71
+[06-Sep-2021 13:55:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 82
+[06-Sep-2021 13:55:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 91
+[06-Sep-2021 13:55:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 100
+[06-Sep-2021 13:55:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 119
+[06-Sep-2021 13:55:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 120
+[06-Sep-2021 13:55:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 129
+[06-Sep-2021 13:55:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 137
+[06-Sep-2021 13:55:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 142
+[06-Sep-2021 13:55:51 Europe/Berlin] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, bool given in D:\download\xampp\htdocs\client\app\http\controllers\DomainController.php on line 188
+[06-Sep-2021 13:55:51 Europe/Berlin] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, bool given in D:\download\xampp\htdocs\client\app\http\controllers\DomainController.php on line 189
+[06-Sep-2021 13:55:51 Europe/Berlin] PHP Notice:  Undefined index: currency in D:\download\xampp\htdocs\client\app\http\models\Domain.php on line 53
+[06-Sep-2021 13:55:51 Europe/Berlin] PHP Warning:  Header may not contain more than a single header, new line detected in D:\download\xampp\htdocs\client\builder\libs\Url.php on line 74
+[06-Sep-2021 13:55:53 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 27
+[06-Sep-2021 13:55:53 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 38
+[06-Sep-2021 13:55:53 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 49
+[06-Sep-2021 13:55:53 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 60
+[06-Sep-2021 13:55:53 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 71
+[06-Sep-2021 13:55:53 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 82
+[06-Sep-2021 13:55:53 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 91
+[06-Sep-2021 13:55:53 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 100
+[06-Sep-2021 13:55:53 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 119
+[06-Sep-2021 13:55:53 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 120
+[06-Sep-2021 13:55:53 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 129
+[06-Sep-2021 13:55:53 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 137
+[06-Sep-2021 13:55:53 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 142
+[06-Sep-2021 13:58:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\contact\lead_form.tpl.php on line 62
+[06-Sep-2021 13:58:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\contact\lead_form.tpl.php on line 63
+[06-Sep-2021 13:58:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\contact\lead_form.tpl.php on line 64
+[06-Sep-2021 13:58:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\contact\lead_form.tpl.php on line 65
+[06-Sep-2021 13:58:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\contact\lead_form.tpl.php on line 75
+[06-Sep-2021 13:58:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\contact\lead_form.tpl.php on line 83
+[06-Sep-2021 13:58:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\contact\lead_form.tpl.php on line 94
+[06-Sep-2021 13:58:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\contact\lead_form.tpl.php on line 104
+[06-Sep-2021 13:58:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\contact\lead_form.tpl.php on line 113
+[06-Sep-2021 13:58:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\contact\lead_form.tpl.php on line 122
+[06-Sep-2021 13:58:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\contact\lead_form.tpl.php on line 131
+[06-Sep-2021 13:58:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\contact\lead_form.tpl.php on line 162
+[06-Sep-2021 13:58:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\contact\lead_form.tpl.php on line 163
+[06-Sep-2021 13:58:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\contact\lead_form.tpl.php on line 164
+[06-Sep-2021 13:58:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\contact\lead_form.tpl.php on line 165
+[06-Sep-2021 13:58:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\contact\lead_form.tpl.php on line 166
+[06-Sep-2021 13:58:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\contact\lead_form.tpl.php on line 167
+[06-Sep-2021 13:58:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\contact\lead_form.tpl.php on line 168
+[06-Sep-2021 13:58:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\contact\lead_form.tpl.php on line 178
+[06-Sep-2021 13:58:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\contact\lead_form.tpl.php on line 190
+[06-Sep-2021 13:58:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\contact\lead_form.tpl.php on line 190
+[06-Sep-2021 13:58:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\contact\lead_form.tpl.php on line 198
+[06-Sep-2021 13:58:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\contact\lead_form.tpl.php on line 198
+[06-Sep-2021 13:58:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\contact\lead_form.tpl.php on line 208
+[06-Sep-2021 13:58:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\contact\lead_form.tpl.php on line 208
+[06-Sep-2021 13:58:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\contact\lead_form.tpl.php on line 217
+[06-Sep-2021 13:58:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\contact\lead_form.tpl.php on line 217
+[06-Sep-2021 13:58:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\contact\lead_form.tpl.php on line 226
+[06-Sep-2021 13:58:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\contact\lead_form.tpl.php on line 226
+[06-Sep-2021 13:58:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\contact\lead_form.tpl.php on line 235
+[06-Sep-2021 13:58:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\contact\lead_form.tpl.php on line 235
+[06-Sep-2021 13:58:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\contact\lead_form.tpl.php on line 242
+[06-Sep-2021 13:58:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\contact\lead_form.tpl.php on line 246
+[06-Sep-2021 14:00:06 Europe/Berlin] PHP Notice:  Trying to get property 'num_rows' of non-object in D:\download\xampp\htdocs\client\app\http\models\Login.php on line 41
+[06-Sep-2021 14:00:06 Europe/Berlin] PHP Notice:  Trying to get property 'num_rows' of non-object in D:\download\xampp\htdocs\client\app\http\models\Commons.php on line 21
+[06-Sep-2021 14:00:06 Europe/Berlin] PHP Warning:  Illegal string offset 'language' in D:\download\xampp\htdocs\client\app\http\controllers\LoginController.php on line 46
+[06-Sep-2021 14:00:06 Europe/Berlin] PHP Notice:  Uninitialized string offset: 0 in D:\download\xampp\htdocs\client\app\http\controllers\LoginController.php on line 46
+[06-Sep-2021 14:00:06 Europe/Berlin] PHP Warning:  require(D:/download/xampp/htdocs/client/builder/language//common.php): failed to open stream: No such file or directory in D:\download\xampp\htdocs\client\app\http\controllers\LoginController.php on line 46
+[06-Sep-2021 14:00:06 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'D:/download/xampp/htdocs/client/builder/language//common.php' (include_path='D:\download\xampp\php\PEAR') in D:\download\xampp\htdocs\client\app\http\controllers\LoginController.php on line 46
+[06-Sep-2021 14:07:28 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 27
+[06-Sep-2021 14:07:28 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 38
+[06-Sep-2021 14:07:28 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 49
+[06-Sep-2021 14:07:28 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 60
+[06-Sep-2021 14:07:28 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 71
+[06-Sep-2021 14:07:28 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 82
+[06-Sep-2021 14:07:28 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 91
+[06-Sep-2021 14:07:28 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 100
+[06-Sep-2021 14:07:28 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 104
+[06-Sep-2021 14:07:28 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 104
+[06-Sep-2021 14:07:28 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 119
+[06-Sep-2021 14:07:28 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 120
+[06-Sep-2021 14:07:28 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 129
+[06-Sep-2021 14:07:28 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 137
+[06-Sep-2021 14:07:28 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 142
+[06-Sep-2021 14:11:48 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 27
+[06-Sep-2021 14:11:48 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 38
+[06-Sep-2021 14:11:48 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 49
+[06-Sep-2021 14:11:48 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 60
+[06-Sep-2021 14:11:48 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 71
+[06-Sep-2021 14:11:48 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 82
+[06-Sep-2021 14:11:48 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 91
+[06-Sep-2021 14:11:48 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 100
+[06-Sep-2021 14:11:48 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 104
+[06-Sep-2021 14:11:48 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 104
+[06-Sep-2021 14:11:48 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 119
+[06-Sep-2021 14:11:48 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 120
+[06-Sep-2021 14:11:48 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 129
+[06-Sep-2021 14:11:48 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 137
+[06-Sep-2021 14:11:48 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 142
+[06-Sep-2021 14:12:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function dd() in D:\download\xampp\htdocs\client\app\http\controllers\DomainController.php:77
+Stack trace:
+#0 D:\download\xampp\htdocs\client\builder\engine\Router.php(52): DomainController->indexAdd()
+#1 D:\download\xampp\htdocs\client\builder\engine\Router.php(41): Router->dispatch(Array)
+#2 D:\download\xampp\htdocs\client\builder\bootstrap.php(80): Router->route('domain/add', 'GET')
+#3 D:\download\xampp\htdocs\client\index.php(34): require_once('D:\\download\\xam...')
+#4 {main}
+  thrown in D:\download\xampp\htdocs\client\app\http\controllers\DomainController.php on line 77
+[06-Sep-2021 14:12:59 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 27
+[06-Sep-2021 14:12:59 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 38
+[06-Sep-2021 14:12:59 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 49
+[06-Sep-2021 14:12:59 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 60
+[06-Sep-2021 14:12:59 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 71
+[06-Sep-2021 14:12:59 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 82
+[06-Sep-2021 14:12:59 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 91
+[06-Sep-2021 14:12:59 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 100
+[06-Sep-2021 14:12:59 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 104
+[06-Sep-2021 14:12:59 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 104
+[06-Sep-2021 14:12:59 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 119
+[06-Sep-2021 14:12:59 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 120
+[06-Sep-2021 14:13:00 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 129
+[06-Sep-2021 14:13:00 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 137
+[06-Sep-2021 14:13:00 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 142
+[06-Sep-2021 14:13:59 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function dd() in D:\download\xampp\htdocs\client\app\http\controllers\DomainController.php:110
+Stack trace:
+#0 D:\download\xampp\htdocs\client\builder\engine\Router.php(52): DomainController->indexAdd()
+#1 D:\download\xampp\htdocs\client\builder\engine\Router.php(41): Router->dispatch(Array)
+#2 D:\download\xampp\htdocs\client\builder\bootstrap.php(80): Router->route('domain/add', 'GET')
+#3 D:\download\xampp\htdocs\client\index.php(34): require_once('D:\\download\\xam...')
+#4 {main}
+  thrown in D:\download\xampp\htdocs\client\app\http\controllers\DomainController.php on line 110
+[06-Sep-2021 14:14:05 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 27
+[06-Sep-2021 14:14:05 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 38
+[06-Sep-2021 14:14:05 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 49
+[06-Sep-2021 14:14:05 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 60
+[06-Sep-2021 14:14:05 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 71
+[06-Sep-2021 14:14:05 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 82
+[06-Sep-2021 14:14:05 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 91
+[06-Sep-2021 14:14:05 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 100
+[06-Sep-2021 14:14:05 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 104
+[06-Sep-2021 14:14:05 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 104
+[06-Sep-2021 14:14:05 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 119
+[06-Sep-2021 14:14:05 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 120
+[06-Sep-2021 14:14:05 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 129
+[06-Sep-2021 14:14:05 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 137
+[06-Sep-2021 14:14:05 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 142
+[06-Sep-2021 14:15:55 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 27
+[06-Sep-2021 14:15:55 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 38
+[06-Sep-2021 14:15:55 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 49
+[06-Sep-2021 14:15:55 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 60
+[06-Sep-2021 14:15:55 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 71
+[06-Sep-2021 14:15:55 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 82
+[06-Sep-2021 14:15:55 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 91
+[06-Sep-2021 14:15:55 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 100
+[06-Sep-2021 14:15:55 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 104
+[06-Sep-2021 14:15:55 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 104
+[06-Sep-2021 14:15:55 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 119
+[06-Sep-2021 14:15:55 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 120
+[06-Sep-2021 14:15:55 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 129
+[06-Sep-2021 14:15:55 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 137
+[06-Sep-2021 14:15:55 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 142
+[06-Sep-2021 14:17:21 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 27
+[06-Sep-2021 14:17:21 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 38
+[06-Sep-2021 14:17:21 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 49
+[06-Sep-2021 14:17:21 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 60
+[06-Sep-2021 14:17:21 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 71
+[06-Sep-2021 14:17:21 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 82
+[06-Sep-2021 14:17:21 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 91
+[06-Sep-2021 14:17:21 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 100
+[06-Sep-2021 14:17:21 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 104
+[06-Sep-2021 14:17:21 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 104
+[06-Sep-2021 14:17:21 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 119
+[06-Sep-2021 14:17:21 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 120
+[06-Sep-2021 14:17:21 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 129
+[06-Sep-2021 14:17:21 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 137
+[06-Sep-2021 14:17:21 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in D:\download\xampp\htdocs\client\app\views\domain\domain_form.tpl.php on line 142
+[07-Sep-2021 05:35:37 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in D:\download\xampp\htdocs\client\builder\engine\Database.php on line 16
+[07-Sep-2021 05:35:37 Europe/Berlin] PHP Warning:  Database::connect(): Couldn't fetch mysqli in D:\download\xampp\htdocs\client\builder\engine\Database.php on line 19
+[07-Sep-2021 05:35:37 Europe/Berlin] PHP Warning:  Database::connect(): Couldn't fetch mysqli in D:\download\xampp\htdocs\client\builder\engine\Database.php on line 19
+[07-Sep-2021 05:35:38 Europe/Berlin] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in D:\download\xampp\htdocs\client\builder\engine\Database.php:19
+Stack trace:
+#0 D:\download\xampp\htdocs\client\builder\engine\Model.php(13): Database->connect('localhost', 'client', 'dWoPii4pPUn.rsr...', 'client')
+#1 D:\download\xampp\htdocs\client\app\http\controllers\CommonsController.php(26): Model->__construct()
+#2 D:\download\xampp\htdocs\client\app\http\controllers\LoginController.php(43): CommonsController->getInfo()
+#3 D:\download\xampp\htdocs\client\builder\engine\Router.php(52): LoginController->index()
+#4 D:\download\xampp\htdocs\client\builder\engine\Router.php(41): Router->dispatch(Array)
+#5 D:\download\xampp\htdocs\client\builder\bootstrap.php(80): Router->route('login', 'GET')
+#6 D:\download\xampp\htdocs\client\index.php(34): require_once('D:\\download\\xam...')
+#7 {main}
+  thrown in D:\download\xampp\htdocs\client\builder\engine\Database.php on line 19

@@ -1,0 +1,189 @@
+#block{
+    display: inline-block;  
+}
+.content-color{
+    background-color: #fff;
+}
+.Cont{
+	color: #dc3545;
+    text-decoration: none;
+	background-color:#988a8a6b;
+	margin-left: 9px;
+}
+.na{
+	border-bottom: 1px solid #dc3545;
+}
+.k0 table { 
+    width: 100% !important ; 
+    border-collapse: collapse; 
+  }
+  /* Zebra striping */
+  tr:nth-of-type(odd) { 
+    /* background: #eee;  */
+  }
+  .k0 th { 
+    background: #eeeeee;
+    color: #dc3545;
+    font-weight: bold; 
+  }
+ .k0 td, .k0 th { 
+    padding: 6px; 
+    border: 1px solid #ccc; 
+    text-align: left; 
+  }
+
+@media only screen and (max-width: 1024px),
+(min-device-width: 768px) and (max-device-width: 1024px)  {
+
+	/* Force table to not be like tables anymore */
+	.k0 table,.k0 thead,.k0 tbody,k0 th, .k0 td, .k0 tr { 
+		display: block;
+		width: 100%; 
+	}
+	
+	/* Hide table headers (but not display: none;, for accessibility) */
+	.k0 thead tr { 
+		position: absolute;
+		top: -9999px;
+		left: -9999px;
+	}
+	
+	 .k0 tr { border: 1px solid #ccc; }
+	
+	.k0 td { 
+		/* Behave  like a "row" */
+		border: none;
+		border-bottom: 1px solid #eee; 
+		position: relative;
+		padding-left: 50%;
+		font-size: 13px; 
+	}
+	.manage{
+		font-size: 13px;
+	}
+	
+	.k0 td:before { 
+		/* Now like a table header */
+		position: absolute;
+		/* Top/left values mimic padding */
+		top: 6px;
+		left: 6px;
+		width: 45%; 
+		padding-right: 10px; 
+		font-weight: 600;
+		white-space: nowrap;
+	}
+	.k0 input[type=checkbox]{
+		zoom: 1.5;
+	}
+	.k0lu{
+		font-size:35px
+	}
+
+	
+	
+	/*
+	Label the data
+	*/
+	
+	/* .k0 td:nth-of-type(1):before { content: "Trading Name"; } */
+	.k0 td:nth-of-type(2):before { content: "Legal Name"; }
+	.k0 td:nth-of-type(3):before { content: "Code"; }
+	.k0 td:nth-of-type(4):before { content: "Tags"; }
+	.k0 td:nth-of-type(5):before { content: "Landline"; }
+	.k0 td:nth-of-type(6):before { content: "Email"; }
+	.k0 td:nth-of-type(7):before { content: "City"; }
+	.k0 td:nth-of-type(8):before { content: "Country"; }
+	.k0 td:nth-of-type(9):before { content: "Agreement Expiry Date"; }
+	.k0 td:nth-of-type(10):before { content: "Action"; }
+
+	/* heaven table css */
+    .heaven-table td:nth-of-type(1):before { content: "#"; }
+	.heaven-table td:nth-of-type(2):before { content: "Name"; }
+	.heaven-table td:nth-of-type(3):before { content: "Department"; }
+	.heaven-table td:nth-of-type(4):before { content: "Is head"; }
+	.heaven-table td:nth-of-type(5):before { content: "Position"; }
+	.heaven-table td:nth-of-type(6):before { content: "Email"; }
+	.heaven-table td:nth-of-type(7):before { content: "Mobile"; }
+	.heaven-table td:nth-of-type(8):before { content: "Land line"; }
+	.heaven-table td:nth-of-type(9):before { content: "Action"; }
+/* kaushik table */
+	.kaushik-table td:nth-of-type(1):before { content: "#"; }
+	.kaushik-table td:nth-of-type(2):before { content: "Name"; }
+	.kaushik-table td:nth-of-type(3):before { content: "Street Address"; }
+	.kaushik-table td:nth-of-type(4):before { content: "Country"; }
+	.kaushik-table td:nth-of-type(5):before { content: "State"; }
+	.kaushik-table td:nth-of-type(6):before { content: "City"; }
+	.kaushik-table td:nth-of-type(7):before { content: "Post code"; }
+	.kaushik-table td:nth-of-type(8):before { content: "Course"; }
+	.kaushik-table td:nth-of-type(9):before { content: "Action"; }
+
+	/* k0t */
+	.k0t-table td:nth-of-type(1):before { content: "#"; }
+	.k0t-table td:nth-of-type(2):before { content: "Subject"; }
+	.k0t-table td:nth-of-type(3):before { content: "Description"; }
+	.k0t-table td:nth-of-type(4):before { content: "Contact"; }
+	.k0t-table td:nth-of-type(5):before { content: "Created By"; }
+	.k0t-table td:nth-of-type(6):before { content: "Created At"; }
+	.k0t-table td:nth-of-type(7):before { content: "Actions"; }
+
+	/* k0doucument */
+	.k0doucument-table td:nth-of-type(1):before { content: "#"; }
+	.k0doucument-table td:nth-of-type(2):before { content: "Document Name"; }
+	.k0doucument-table td:nth-of-type(3):before { content: "Added on"; }
+	.k0doucument-table td:nth-of-type(4):before { content: "Added By"; }
+	.k0doucument-table td:nth-of-type(5):before { content: "File"; }
+	.k0doucument-table td:nth-of-type(6):before { content: "Action"; }
+
+	/* k0email */
+	.k0email-table td:nth-of-type(1):before { content: "#"; }
+	.k0email-table td:nth-of-type(2):before { content: "Document Name"; }
+	.k0email-table td:nth-of-type(3):before { content: "Added on"; }
+	.k0email-table td:nth-of-type(4):before { content: "Added By"; }
+	.k0email-table td:nth-of-type(5):before { content: "File"; }
+	.k0email-table td:nth-of-type(6):before { content: "Action"; }
+
+	/* k0hev-table */
+	.hev-table td:nth-of-type(1):before { content: "Select";}
+	.hev-table td:nth-of-type(2):before { content: "Name"; }
+	.hev-table td:nth-of-type(3):before { content: "Course Code"; }
+	.hev-table td:nth-of-type(4):before { content: "Cricos code"; }
+	.hev-table td:nth-of-type(5):before { content: "Award Level"; }
+	.hev-table td:nth-of-type(6):before { content: "Duration Years"; }
+	.hev-table td:nth-of-type(7):before { content: "Duration Weeks"; }
+	.hev-table td:nth-of-type(8):before { content: "Commission"; }
+	.hev-table td:nth-of-type(9):before { content: "Teaching Period"; }
+	.hev-table td:nth-of-type(10):before { content: "Total Fee"; }
+	.hev-table td:nth-of-type(11):before { content: "Added On"; }
+	.hev-table td:nth-of-type(12):before { content: "Action"; }
+
+	/* k0hev-table */
+	.k0hev-table td:nth-of-type(1):before { content: "Course Code";}
+	.k0hev-table td:nth-of-type(2):before { content: "Cricos Code"; }
+	.k0hev-table td:nth-of-type(3):before { content: "Course Name"; }
+	.k0hev-table td:nth-of-type(4):before { content: "Duration (Weeks)"; }
+	.k0hev-table td:nth-of-type(5):before { content: "Duration (Years)"; }
+	.k0hev-table td:nth-of-type(6):before { content: "Teaching Periods"; }
+	.k0hev-table td:nth-of-type(7):before { content: "Commission Structure"; }
+	.k0hev-table td:nth-of-type(8):before { content: "Award Level"; }
+	.k0hev-table td:nth-of-type(9):before { content: "Institution"; }
+	.k0hev-table td:nth-of-type(10):before { content: "Total Fee"; }
+	
+}
+
+.nav-link.active{
+	color: #130c0c !important;
+    background-color: #dc3545 !important;
+    border-color: #dee2e6 #dee2e6 #fff !important;
+}
+a:hover{
+	color: #ffffff !important;
+
+}
+.k0coll a{
+	color:#dc3545
+}
+
+.k0coll a:hover {
+    color: black !important;
+}

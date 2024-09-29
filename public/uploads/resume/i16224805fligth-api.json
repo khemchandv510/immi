@@ -1,0 +1,49 @@
+ {
+	"GetFlightAvailibilityResponse": {
+		"FlightDetails": [{
+			"SrNo": "101AO",
+			"AirlineCode": "UL",
+			"FlightNo": "2137",
+			"FromAirportCode": "BOM",
+			"ToAirportCode": "DXB",
+			"DepDate": "26/07/2019",
+			"DepTime": "05:10",
+			"ArrDate": "26/07/2019",
+			"ArrTime": "06:50",
+			"FlightClass": "U",
+			"FlightTime": "190",
+			"TotalAmount": "106641",
+			"TaxAmount": "44801",
+			"Stops": "0",
+			"ValCarrier": "EK",
+			"FromTerminal": "2",
+			"ToTerminal": "2",
+			"MainClass": "Y",
+			"FareBasis": "ULWESIN1",
+			"AgencyCharge": "5332.05",
+			"FareType": "R",
+			"AvailSeats": "7",
+			"FlightRemarks": null,
+			"TrackNo": "0$7021|4|101AO"
+		}],
+
+		"AirlineList": [{
+				"AirlineCode": "UK",
+				"AirlineName": "Emirates"
+			},
+			{
+				"AirlineCode": "FZ",
+				"AirlineName": "Fly Dubai"
+			},
+			{
+				"AirlineCode": "SQ",
+				"AirlineName": "Singapore Airlines"
+			},
+			{
+				"AirlineCode": "UL",
+				"AirlineName": "SriLankan Airlines"
+			}
+		]
+	}
+
+}
