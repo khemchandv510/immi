@@ -45,11 +45,12 @@ class ImmigrationController extends Controller
         return view('immigration.immigration-list' , compact(['getStudent']));
     }
 
-
-
-
     public function listDetails($id){
-        return view('immigration.process');
+        $getStudent = DB::table('enquiries')
+        ->where('enquiries.unique_id',$id)
+        ->first();        
+        // dd($getStudent);
+        return view('immigration.process', compact('getStudent'));
     }
 
 

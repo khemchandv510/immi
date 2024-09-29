@@ -33,7 +33,6 @@ return back();die;
     {{-- <link href="https://unpkg.com/gijgo@1.9.13/css/gijgo.min.css" rel="stylesheet" type="text/css" /> --}}
     {{-- <link rel="stylesheet" href="{{URL::asset('public/css//materialize.min.css')}}"/> --}}
 
-    {{-- 6/4 --}}
     {{-- <link href="{{URL::asset('public/css/all.min.css')}}" rel="stylesheet" type="text/css"> --}}
 
 <!-- Custom styles for this template-->

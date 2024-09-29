@@ -327,15 +327,10 @@ border: 1px solid #cbc7c7;
                  
                     <div class="input-group">
                         <span class="input-group-addon" style="resize:none;"><i class="fas fa-comment"></i></span>
-                         <input type="text" name="gstno" class="form-control" >
+                         <input type="text" name="passport" class="form-control" >
                           </div>
 
               </div>
-              
-              
-       
-              
-              
               
               <div class="col-md-12 text-center my-4">
                     <input class="btn btn-danger hover-color" value="Submit" style="border-radius: 30px;

@@ -1506,7 +1506,8 @@ public function add_leads(Request $request){
         'source' =>$request->source,
         'last_comment' =>  $request->comment,
         'conversion'  =>0,
-        'country'   => $request->country
+        'country'   => $request->country,
+        'passport' => $request->passport
         ]);
         
     

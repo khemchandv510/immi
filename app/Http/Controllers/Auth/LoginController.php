@@ -37,8 +37,4 @@ class LoginController extends Controller
 
         $this->middleware('guest')->except('logout');
     }
-    
-    // public function lockscreen(request $request){
-    //     dd($request->out);
-    // }
 }

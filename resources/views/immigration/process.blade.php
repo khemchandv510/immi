@@ -376,16 +376,15 @@
                                   <div class="col-6 col-sm-4 col-md-3">
                                     <div
                                       class="service-block"
-                                      style="visibility: visible"
-                                    >
+                                      style="visibility: visible">
                                       <i class="ico bi bi-person highlight"></i>
                                       <div class="text-block">
                                         <div class="info">First Name</div>
-                                        <div class="name">Sonu</div>
+                                        <div class="name">{{$getStudent->name}}</div>
                                       </div>
                                     </div>
                                   </div>
-                                  <div class="col-6 col-sm-4 col-md-3">
+                                  <!-- <div class="col-6 col-sm-4 col-md-3">
                                     <div
                                       class="service-block"
                                       style="visibility: visible"
@@ -396,7 +395,7 @@
                                         <div class="name">Singh</div>
                                       </div>
                                     </div>
-                                  </div>
+                                  </div> -->
                                   <div class="col-6 col-sm-4 col-md-3">
                                     <div
                                       class="service-block"
@@ -408,7 +407,7 @@
                                       ></i>
                                       <div class="text-block">
                                         <div class="info">Date of Birth</div>
-                                        <div class="name">15-05-2000</div>
+                                        <div class="name">{{$getStudent->dob}}</div>
                                       </div>
                                     </div>
                                   </div>
@@ -423,7 +422,7 @@
                                       ></i>
                                       <div class="text-block">
                                         <div class="info">Gender</div>
-                                        <div class="name">Male</div>
+                                        <div class="name">{{$getStudent->gender}}</div>
                                       </div>
                                     </div>
                                   </div>
@@ -453,7 +452,7 @@
                                       ></i>
                                       <div class="text-block">
                                         <div class="info">Visa Expiry Date</div>
-                                        <div class="name">30-08-25</div>
+                                        <div class="name">- </div>
                                       </div>
                                     </div>
                                   </div>
@@ -468,7 +467,7 @@
                                       ></i>
                                       <div class="text-block">
                                         <div class="info">Passport Number</div>
-                                        <div class="name">V182038</div>
+                                        <div class="name">{{$getStudent->passport}}</div>
                                       </div>
                                     </div>
                                   </div>
@@ -491,7 +490,7 @@
                                       ></i>
                                       <div class="text-block">
                                         <div class="info">Contact No</div>
-                                        <div class="name">+91-9632145875</div>
+                                        <div class="name">{{$getStudent->contact}}</div>
                                       </div>
                                     </div>
                                   </div>
@@ -506,7 +505,7 @@
                                       ></i>
                                       <div class="text-block">
                                         <div class="info">Email Address</div>
-                                        <div class="name">xyz@gmail.com</div>
+                                        <div class="name">{{$getStudent->email}} </div>
                                       </div>
                                     </div>
                                   </div>
@@ -523,7 +522,7 @@
                                         <div class="info">
                                           Permanent Address
                                         </div>
-                                        <div class="name">New Delhi, India</div>
+                                        <div class="name"> {{$getStudent->address_line1}}</div>
                                       </div>
                                     </div>
                                   </div>
@@ -1122,22 +1121,29 @@
           class="tab-pane fade"
           id="file-notes"
           role="tabpanel"
-          aria-labelledby="file-notes-tab"
-        >
+          aria-labelledby="file-notes-tab" >
           <!-- page4 -->
-          <div class="container-fluid my-2 px-4 pb-4">
+          <div class="container my-2 px-4 pb-4">
             <div class="accordion">
+
+            
               <div class="accordion-item">
                 <div id="">
                   <div class="accordion-body">
                     <!-- -------  -->
-                    <section>
-                        <textarea id="editor" ></textarea>
-                        <div class="d-flex justify-content-between mt-3">
-                            <button class="btn text-white" style="background: #7744ff">Save</button>
-                            <button class="btn" style="background:#f1f1f1">Print All Notes</button>
-                        </div>
-                    </section>
+
+                    <form action="" method="get">
+                      <div class="form-group">
+                        <!-- <label for="exampleInputEmail1">File Note</label> -->
+                        
+                        <textarea class="form-control" id="editor" id="exampleFormControlTextarea1" rows="10">
+                        {{$getStudent->file_note}}
+                        </textarea>
+                      </div>
+                      <button type="submit" class="btn btn-primary">Submit</button>
+
+                    </form>
+                      
                     <!-- -------  -->
                   </div>
                 </div>
