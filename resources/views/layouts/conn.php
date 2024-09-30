@@ -1,8 +1,8 @@
 <?php
 $host = 'localhost';
-        $database = 'immigration';
-        $user_name = 'root';
-        $pass =  '';
+        $database = 'icfei_ifsc';
+        $user_name = 'icfei_icfc';
+        $pass =  'rczouiid2b86';
 
 
  
