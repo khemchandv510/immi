@@ -194,7 +194,7 @@ return back();die;
       </div></div></div> </div>
       </body>
 
-<script src="https://cdn.ckeditor.com/4.16.0/standard/ckeditor.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ckeditor/4.12.1/ckeditor.js"></script>
 <script>
     // Initialize CKEditor
     CKEDITOR.replace('editor', {

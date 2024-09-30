@@ -1169,7 +1169,7 @@
                         <!-- <label for="exampleInputEmail1">File Note</label> -->
                         
                         <textarea class="form-control" id="editor" rows="10">
-                        {{$getStudent->file_note ?? ''}}
+                        {{$getStudent->file_note }}
                         </textarea>
                       </div>
                       <button type="submit" class="btn btn-primary">Submit</button>
