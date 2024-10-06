@@ -1887,8 +1887,14 @@
                     <p style="margin-left: 1rem; margin-top: 1rem;"><b>Signature of client</b></p>
                     <input type="file" style="margin-left: 1rem; margin-top: 2rem;">
                     <p style="margin-top: 1rem; margin-left: 1rem;">Date: <span><input type="date"></span></p>
+
+
+                    <a href="http://" class="btn btn-sucess"> Generate 956 form</a>
+
                 </div>
-                
+
+
+                 
 
                     
                 </div>

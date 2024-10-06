@@ -27,6 +27,7 @@ use App\enq_asign_clients;
 use App\gre_gmat_language_scores;
 use Redirect;
 use Session;
+use Barryvdh\DomPDF\Facade\Pdf;
 
 class ImmigrationController extends Controller
 {
@@ -263,5 +264,25 @@ public function immigrationDetails($id){
     return view('immigration.process');
 }
 
+
+public function pdfgenerate($id){
+
+    $getStudent = DB::table('enquiries')
+    ->where('enquiries.unique_id',$id)->first();
+
+    $getStudentArray = (array) $getStudent;
+
+
+        $data = [
+                'name' => "ritik",
+                'email' => 'ritik@test.com',
+                'phone' => '1234567890'
+        ];
+     
+        $pdf = Pdf::loadView('immigration.956-form',$getStudentArray);
+     
+        return $pdf->stream();
+
+}
 
 }

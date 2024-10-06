@@ -496,6 +496,7 @@ Route::get('immigration-list','ImmigrationController@index')->name('immigration-
 
 Route::get('immigration-list-detail/{id}','ImmigrationController@listDetails');
 
+Route::get('immigration-list-detail-956/{id}','ImmigrationController@pdfgenerate');
 
 Route::get('immigration-detail/{id}','ImmigrationController@immigrationDetails')->name('immigration-details');
 
